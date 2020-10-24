@@ -1,0 +1,4301 @@
+MonthlyIncome,MaritalStatus,NumCompaniesWorked,DistanceFromHome,JobSatisfaction,Attrition
+131160,Married,1.0,6,Very High,No
+41890,Single,0.0,10,Medium,Yes
+193280,Married,1.0,17,Medium,No
+83210,Married,3.0,2,Very High,No
+23420,Single,4.0,10,Low,No
+40710,Married,3.0,8,Medium,No
+58130,Single,2.0,11,High,Yes
+31430,Married,2.0,18,Medium,No
+20440,Married,0.0,1,Very High,No
+134640,Divorced,1.0,7,Low,No
+79910,Married,0.0,17,Very High,No
+55380,Single,0.0,14,Low,No
+57620,Married,1.0,1,Medium,Yes
+25920,Married,1.0,1,Very High,No
+53460,Married,4.0,1,Very High,No
+42130,Single,1.0,3,High,No
+41270,Divorced,2.0,1,Very High,No
+24380,Divorced,7.0,7,Medium,No
+68700,Divorced,1.0,8,Low,No
+104470,Divorced,1.0,1,Medium,No
+96670,Divorced,3.0,8,Medium,No
+21480,Married,3.0,11,High,No
+65130,Single,1.0,16,Very High,No
+67990,Married,3.0,1,Very High,No
+162910,Married,1.0,9,Low,No
+27050,Single,1.0,5,Very High,No
+103330,Divorced,3.0,1,High,Yes
+44480,Divorced,9.0,2,Very High,No
+68540,Divorced,2.0,4,Medium,Yes
+96370,Single,1.0,7,Very High,No
+35910,Single,9.0,1,Low,No
+54050,Single,4.0,5,Medium,No
+46840,Divorced,1.0,9,Medium,No
+157870,Single,1.0,8,Very High,Yes
+15140,Married,1.0,9,Very High,No
+29560,Married,5.0,2,Medium,No
+23350,Single,1.0,1,High,Yes
+51540,Married,0.0,20,Medium,No
+56750,Divorced,5.0,2,Medium,No
+23790,Single,1.0,29,Medium,No
+38120,Single,1.0,7,High,No
+46480,Single,0.0,9,Low,No
+29360,Married,4.0,8,Very High,No
+21050,Divorced,0.0,5,Very High,No
+85780,Married,7.0,5,Medium,No
+27060,Married,1.0,2,High,No
+63840,Married,3.0,5,Medium,No
+39680,Divorced,2.0,2,High,No
+99070,Married,0.0,20,Very High,No
+132250,Married,3.0,7,Low,No
+35400,Divorced,1.0,3,Low,No
+28040,Divorced,0.0,16,Very High,No
+193920,Married,6.0,9,Medium,No
+196650,Married,1.0,1,Low,No
+24390,Single,0.0,7,Very High,No
+73140,Single,7.0,1,High,No
+47740,Married,2.0,7,Medium,Yes
+39020,Single,1.0,15,Medium,No
+26620,Married,1.0,1,Medium,No
+28560,Single,1.0,13,High,No
+10810,Divorced,4.0,24,Very High,No
+24720,Single,7.0,7,Very High,No
+56730,Married,5.0,9,Very High,Yes
+41970,Married,1.0,13,Very High,No
+97130,Married,1.0,2,High,No
+20620,Married,1.0,19,Very High,No
+42840,Married,4.0,1,High,Yes
+47880,Single,3.0,4,Very High,No
+59060,Married,4.0,4,High,No
+38860,Divorced,1.0,14,High,No
+168230,Married,0.0,2,Medium,No
+29330,Single,3.0,1,High,No
+65000,Married,8.0,7,Low,No
+171740,Married,9.0,3,Very High,No
+50330,Married,2.0,2,Very High,No
+23070,Married,1.0,29,Low,Yes
+25870,Single,0.0,8,Very High,No
+55070,Divorced,1.0,10,High,No
+43930,Married,1.0,11,Medium,No
+133480,Divorced,7.0,1,Very High,No
+65830,Divorced,0.0,28,Very High,No
+39780,Divorced,1.0,3,Medium,No
+25440,Single,0.0,16,Medium,No
+53990,Divorced,1.0,20,Very High,No
+54870,Single,6.0,9,Medium,No
+68340,Single,3.0,1,High,No
+10910,Single,2.0,3,Very High,No
+57360,Married,1.0,22,High,No
+22260,Divorced,0.0,7,High,No
+57470,Married,1.0,2,Medium,No
+98540,Married,3.0,13,High,No
+54670,Divorced,4.0,8,Low,No
+53800,Married,7.0,25,High,No
+51510,Married,1.0,28,High,No
+21330,Single,3.0,2,Very High,No
+178750,Single,1.0,9,Medium,Yes
+24320,Single,4.0,28,Very High,No
+47710,Married,4.0,6,Very High,No
+191610,Married,2.0,21,High,No
+50870,Married,3.0,8,High,No
+28630,Single,1.0,1,Very High,No
+55610,Single,1.0,28,High,Yes
+21440,Married,6.0,5,Low,No
+30650,Married,2.0,2,High,No
+28100,Single,1.0,16,Medium,Yes
+98880,Single,6.0,9,Very High,No
+86280,Married,2.0,8,High,Yes
+53730,Single,1.0,10,Medium,Yes
+66670,Single,9.0,1,Very High,No
+50030,Single,9.0,29,Medium,No
+28580,Single,1.0,2,Very High,No
+52040,Single,8.0,2,High,No
+41050,Married,4.0,1,Very High,No
+96790,Married,4.0,15,High,No
+56170,Single,8.0,7,Very High,Yes
+104480,Single,2.0,26,Very High,No
+28970,Divorced,1.0,1,High,No
+59680,Married,1.0,3,Medium,No
+29910,Married,1.0,16,Medium,No
+196360,Married,1.0,1,High,No
+11290,Single,9.0,3,Very High,Yes
+133410,Divorced,1.0,10,Low,No
+43320,Divorced,7.0,6,Medium,No
+110310,Divorced,3.0,2,Low,No
+44400,Single,2.0,9,Medium,No
+46170,Divorced,1.0,10,Medium,No
+26470,Married,6.0,6,High,No
+63230,Married,4.0,9,Low,No
+56770,Married,9.0,28,High,No
+21870,Married,1.0,10,Low,No
+39770,Divorced,4.0,27,High,No
+86330,Single,1.0,7,Very High,No
+20080,Married,3.0,1,High,No
+44400,Married,1.0,24,Low,No
+30670,Divorced,1.0,26,High,No
+53210,Married,9.0,20,Low,No
+54100,Single,0.0,5,High,No
+27820,Married,1.0,7,Low,No
+119570,Divorced,1.0,7,Low,No
+26600,Married,5.0,5,Low,Yes
+33750,Married,2.0,26,High,No
+50980,Married,3.0,2,Very High,No
+48780,Married,2.0,12,Very High,No
+28370,Divorced,2.0,10,High,No
+24060,Single,2.0,25,Very High,No
+22690,Married,5.0,10,Low,No
+41080,Divorced,2.0,19,High,No
+132060,Married,0.0,18,Very High,No
+104220,Single,1.0,27,Medium,Yes
+137440,Divorced,0.0,5,High,Yes
+49070,Married,1.0,3,Very High,No
+34820,Married,0.0,26,High,No
+24360,Divorced,1.0,3,Very High,No
+23800,Married,4.0,15,Very High,No
+194310,Married,1.0,8,High,No
+17900,Married,5.0,19,Medium,Yes
+76440,Single,1.0,4,Very High,Yes
+51310,Married,0.0,2,Low,No
+63060,Divorced,3.0,2,Very High,No
+47870,Married,0.0,10,High,No
+188800,Single,0.0,10,Very High,No
+23390,Married,4.0,16,Low,No
+135700,Divorced,5.0,1,Very High,No
+67120,Married,6.0,4,High,No
+54060,Single,0.0,15,High,No
+89380,Single,7.0,2,High,No
+24390,Divorced,3.0,8,High,No
+88370,Married,2.0,2,Very High,No
+53430,Divorced,1.0,7,Medium,No
+67280,Married,7.0,10,High,Yes
+66520,Divorced,7.0,5,Very High,Yes
+48500,Single,0.0,2,Medium,No
+28090,Married,4.0,12,High,No
+56890,Married,3.0,22,High,Yes
+20010,Divorced,9.0,17,Low,Yes
+29770,Married,4.0,2,High,No
+40250,Single,1.0,3,Very High,No
+37850,Single,5.0,7,High,Yes
+108540,Married,2.0,6,Very High,No
+120310,Single,3.0,1,Medium,No
+99360,Single,7.0,3,Very High,No
+29660,Married,9.0,22,High,No
+25710,Single,7.0,15,High,No
+99910,Married,1.0,12,High,No
+61420,Single,4.0,1,Very High,No
+53900,Married,1.0,5,Low,No
+44040,Married,0.0,2,Medium,No
+51300,Divorced,4.0,5,Very High,No
+20900,Divorced,4.0,16,High,No
+29090,Divorced,9.0,2,Very High,No
+34680,Single,1.0,2,Medium,Yes
+30680,Divorced,3.0,1,Low,No
+26700,Single,2.0,23,High,No
+26930,Divorced,5.0,9,High,No
+95260,Single,1.0,16,High,No
+52370,Single,1.0,26,Very High,No
+24260,Single,1.0,1,Very High,Yes
+41930,Single,4.0,8,Very High,No
+29110,Married,5.0,4,High,No
+26610,Married,7.0,24,Low,No
+20280,Divorced,1.0,7,Medium,No
+32980,Married,8.0,7,High,Yes
+29350,Married,0.0,22,Very High,No
+154270,Married,3.0,5,High,No
+39440,Married,6.0,1,Medium,No
+40110,Divorced,1.0,21,High,No
+34070,Married,1.0,1,Very High,No
+119940,Married,1.0,19,Medium,No
+12320,Married,1.0,7,Medium,No
+29600,Married,1.0,2,Medium,No
+190940,Married,1.0,2,High,No
+39190,Married,1.0,2,High,Yes
+68250,Married,1.0,9,Low,Yes
+102480,Married,1.0,6,Very High,No
+189470,Divorced,2.0,9,Low,Yes
+24960,Single,4.0,2,Very High,No
+64650,Divorced,4.0,1,Very High,No
+22060,Divorced,0.0,22,High,No
+20860,Married,4.0,9,High,No
+22930,Single,1.0,17,Medium,No
+26450,Married,1.0,28,Very High,No
+26830,Divorced,4.0,10,Very High,No
+20140,Single,3.0,2,Low,No
+34190,Divorced,3.0,4,High,No
+53760,Married,7.0,8,Low,No
+19510,Single,4.0,29,High,No
+23410,Divorced,1.0,13,High,No
+22930,Divorced,0.0,27,Low,Yes
+87260,Single,1.0,16,High,No
+40110,Married,4.0,2,Very High,No
+195450,Married,0.0,2,High,No
+45680,Divorced,0.0,13,High,No
+30220,Married,1.0,1,Very High,No
+57720,Divorced,1.0,4,High,No
+22690,Single,7.0,24,Low,No
+53810,Married,1.0,1,Very High,No
+34410,Married,2.0,19,Low,Yes
+54540,Married,1.0,7,Very High,No
+98840,Married,1.0,4,High,No
+41570,Married,1.0,2,High,No
+134580,Single,1.0,10,Very High,No
+90690,Divorced,3.0,8,Very High,No
+40140,Married,2.0,5,Medium,No
+59150,Divorced,2.0,8,Medium,No
+59930,Single,0.0,9,Very High,No
+61620,Single,1.0,1,High,Yes
+24060,Single,1.0,15,Low,Yes
+187400,Married,1.0,2,High,No
+76370,Married,2.0,2,Low,No
+100960,Married,0.0,11,Medium,No
+147560,Single,0.0,16,Very High,No
+64990,Divorced,1.0,2,Very High,No
+97240,Married,3.0,16,Medium,No
+21940,Divorced,1.0,4,Very High,No
+33880,Single,3.0,16,Very High,No
+54730,Married,1.0,5,High,No
+27030,Single,1.0,18,Medium,No
+25010,Single,9.0,17,High,Yes
+62200,Single,1.0,12,High,No
+30380,Single,1.0,2,Very High,No
+44240,Married,3.0,4,High,Yes
+43120,Single,0.0,9,Very High,No
+132450,Married,1.0,10,Low,No
+50210,Single,2.0,2,Low,No
+51260,Married,5.0,3,Low,No
+28590,Married,3.0,7,High,No
+102390,Divorced,3.0,6,Very High,No
+53290,Single,8.0,8,Low,No
+43250,Divorced,1.0,29,Low,No
+72600,Married,1.0,3,High,No
+23220,Married,7.0,9,Medium,No
+20750,Single,7.0,2,Medium,Yes
+41520,Married,9.0,10,Low,No
+96190,Single,4.0,1,High,No
+135030,Single,2.0,8,High,No
+54410,Divorced,9.0,27,High,No
+52090,Divorced,7.0,8,Very High,No
+106730,Single,1.0,1,High,No
+50100,Divorced,6.0,10,High,Yes
+135490,Married,3.0,26,Very High,No
+49990,Single,3.0,2,High,No
+42210,Married,1.0,13,Low,No
+138720,Married,9.0,2,Medium,No
+20420,Married,7.0,2,Very High,No
+20730,Single,0.0,9,Very High,No
+29560,Single,8.0,10,Low,No
+29260,Divorced,1.0,20,Medium,No
+48090,Single,2.0,9,Very High,No
+51630,Divorced,2.0,5,Low,No
+181720,Married,6.0,10,High,No
+57440,Divorced,3.0,20,Low,No
+28890,Married,1.0,21,Low,No
+28710,Single,1.0,1,Very High,Yes
+74840,Single,1.0,8,Very High,No
+60740,Single,0.0,2,High,No
+173280,Single,1.0,23,High,No
+45050,Single,1.0,12,Very High,No
+74280,Married,5.0,7,Low,Yes
+116310,Single,1.0,7,Low,No
+97380,Married,0.0,1,Very High,No
+169590,Married,4.0,10,High,No
+26130,Single,6.0,15,Low,Yes
+61460,Single,2.0,14,Very High,No
+49630,Divorced,9.0,18,Low,No
+195370,Married,0.0,13,Very High,No
+61720,Divorced,0.0,2,Low,No
+23680,Single,6.0,2,Low,No
+103120,Single,1.0,2,Low,No
+16750,Married,1.0,5,Very High,No
+25230,Married,3.0,20,High,No
+65670,Married,1.0,10,Medium,No
+47390,Married,5.0,10,Low,No
+92080,Divorced,1.0,9,Very High,No
+45590,Married,1.0,2,Low,Yes
+81890,Divorced,1.0,1,Medium,No
+29420,Married,8.0,29,High,No
+49410,Married,5.0,8,High,No
+106500,Married,1.0,2,Low,Yes
+59020,Married,0.0,3,High,No
+86390,Single,5.0,23,Low,Yes
+63470,Married,1.0,6,Very High,No
+42000,Married,0.0,6,Medium,No
+34520,Married,1.0,10,High,No
+43170,Single,7.0,24,Medium,Yes
+26320,Single,3.0,10,High,No
+46680,Married,9.0,15,Very High,No
+32040,Single,6.0,19,High,Yes
+27200,Married,4.0,2,Medium,No
+171810,Married,1.0,3,High,No
+14830,Single,5.0,7,Very High,No
+56050,Single,1.0,10,High,No
+72950,Married,1.0,20,Medium,No
+23060,Divorced,2.0,4,Low,No
+23480,Single,1.0,7,Very High,No
+89980,Married,1.0,7,Very High,Yes
+43190,Single,4.0,16,Very High,Yes
+61320,Married,6.0,25,Low,No
+33460,Divorced,1.0,2,Very High,No
+108550,Single,3.0,1,High,No
+22310,Married,1.0,1,Medium,No
+23230,Married,0.0,2,Very High,No
+20240,Married,1.0,22,High,Yes
+27130,Married,1.0,1,Very High,No
+94390,Married,2.0,16,High,No
+25660,Single,9.0,24,Medium,No
+199260,Single,7.0,17,Low,No
+24510,Divorced,1.0,8,Low,No
+94190,Single,1.0,6,Low,No
+86860,Married,1.0,10,Very High,No
+30380,Divorced,2.0,3,Very High,No
+30580,Divorced,9.0,4,Very High,No
+23250,Married,7.0,6,Very High,No
+20880,Divorced,4.0,1,Low,No
+30720,Married,5.0,10,High,No
+50060,Married,3.0,1,Very High,No
+42570,Divorced,4.0,24,High,No
+25000,Divorced,1.0,21,Very High,No
+11020,Married,6.0,2,Very High,No
+104530,Married,2.0,22,Very High,No
+22880,Single,5.0,13,Very High,No
+39290,Married,0.0,14,Low,No
+23110,Married,1.0,11,Low,No
+31400,Married,1.0,9,High,No
+36900,Divorced,1.0,8,Medium,Yes
+44500,Divorced,0.0,21,Very High,No
+27560,Married,1.0,5,Low,No
+190330,Married,2.0,9,Low,No
+187220,Married,0.0,2,Very High,No
+95470,Married,1.0,12,Medium,No
+137340,Married,0.0,22,Medium,No
+199990,Married,2.0,18,Very High,No
+22790,Married,3.0,16,Very High,No
+59160,Divorced,6.0,3,High,Yes
+20890,Married,5.0,9,Very High,No
+167920,Married,3.0,1,Medium,No
+35640,Married,5.0,13,Very High,No
+44250,Single,6.0,1,Very High,No
+52650,Married,4.0,1,Very High,No
+65530,Married,0.0,15,Very High,No
+62610,Single,1.0,1,Medium,No
+42980,Divorced,1.0,17,Low,No
+68040,Married,8.0,1,Very High,No
+38150,Divorced,3.0,7,Medium,No
+27410,Single,1.0,9,Very High,Yes
+66730,Divorced,6.0,5,Very High,No
+76390,Married,1.0,26,Low,No
+23280,Single,1.0,24,Very High,No
+21530,Divorced,9.0,9,Very High,Yes
+48760,Divorced,4.0,7,Medium,No
+93960,Single,1.0,11,High,Yes
+84740,Married,0.0,26,Very High,No
+99810,Single,1.0,2,Very High,No
+124900,Married,0.0,15,High,Yes
+26570,Divorced,4.0,23,Very High,Yes
+135910,Divorced,5.0,10,High,No
+66960,Married,7.0,10,Low,Yes
+20580,Single,1.0,1,High,No
+88650,Divorced,1.0,12,Medium,No
+59400,Single,7.0,11,High,No
+59140,Single,3.0,2,Low,No
+26220,Divorced,2.0,2,Medium,No
+121850,Married,3.0,1,High,No
+106090,Married,1.0,2,Very High,No
+43450,Married,4.0,25,Medium,No
+21770,Married,4.0,1,High,No
+27930,Married,1.0,1,High,No
+79180,Single,2.0,2,Very High,No
+87890,Married,1.0,6,Low,No
+23890,Married,6.0,18,Medium,No
+32120,Married,1.0,1,Medium,Yes
+192320,Divorced,2.0,1,Medium,No
+22670,Single,1.0,11,Low,No
+195170,Single,2.0,1,Low,No
+24360,Single,4.0,9,High,No
+160640,Single,1.0,15,Medium,Yes
+27070,Single,1.0,29,Low,Yes
+190680,Married,0.0,1,Very High,No
+39310,Divorced,8.0,1,Medium,No
+37300,Married,1.0,24,Low,No
+22320,Married,1.0,10,Very High,Yes
+44650,Single,0.0,1,Very High,No
+30720,Married,5.0,10,High,Yes
+33190,Married,1.0,8,Medium,No
+192020,Married,1.0,29,Very High,No
+136750,Married,1.0,1,High,No
+29110,Married,2.0,5,Very High,No
+59570,Single,4.0,9,High,Yes
+39200,Divorced,6.0,9,High,No
+64340,Divorced,5.0,3,High,No
+100480,Single,1.0,4,Very High,No
+109380,Divorced,6.0,1,Very High,No
+23400,Single,0.0,1,High,No
+65450,Single,4.0,2,Medium,Yes
+69310,Divorced,1.0,7,High,No
+48980,Divorced,4.0,28,Very High,No
+25930,Single,0.0,28,Low,Yes
+194360,Single,1.0,15,High,No
+27230,Single,6.0,3,Low,Yes
+34790,Single,3.0,2,Very High,No
+27940,Divorced,3.0,26,Very High,No
+52490,Divorced,9.0,10,Very High,No
+21760,Married,1.0,1,Medium,No
+168720,Divorced,2.0,11,High,No
+34850,Married,9.0,20,Medium,No
+66440,Married,1.0,2,Low,No
+55820,Single,1.0,18,Very High,No
+40000,Married,4.0,2,High,Yes
+134960,Married,3.0,1,High,No
+32100,Married,0.0,13,High,No
+190450,Divorced,6.0,28,High,No
+118490,Divorced,1.0,28,High,No
+20700,Divorced,1.0,24,Medium,Yes
+65020,Married,1.0,5,Low,No
+32300,Single,1.0,5,Very High,No
+136030,Married,8.0,23,High,No
+119960,Divorced,1.0,6,High,No
+56050,Married,0.0,4,Low,No
+63970,Single,1.0,2,Low,Yes
+191440,Single,0.0,8,Medium,Yes
+175840,Married,1.0,1,Very High,No
+45540,Single,2.0,2,High,No
+54150,Single,7.0,3,High,No
+47410,Single,6.0,2,High,No
+21150,Married,1.0,2,Very High,No
+31610,Married,0.0,3,Very High,No
+57450,Divorced,1.0,24,Very High,No
+33100,Married,4.0,27,Very High,No
+186650,Single,3.0,16,Very High,No
+44850,Married,5.0,15,Medium,Yes
+27890,Married,3.0,26,Medium,No
+58280,Divorced,1.0,19,High,No
+135250,Single,8.0,21,Low,Yes
+14200,Married,1.0,5,Very High,Yes
+80200,Married,3.0,16,Very High,No
+36880,Married,0.0,2,High,No
+54820,Single,1.0,2,Low,Yes
+160150,Single,1.0,11,Low,No
+12000,Single,0.0,9,Very High,No
+56610,Married,3.0,7,Very High,No
+69290,Single,9.0,15,High,No
+96130,Divorced,0.0,6,Very High,No
+56740,Married,3.0,5,Very High,No
+54840,Single,1.0,16,Medium,No
+120610,Married,2.0,8,Medium,No
+56600,Divorced,7.0,7,High,Yes
+48210,Married,6.0,2,Low,Yes
+64100,Married,1.0,2,High,No
+52100,Married,1.0,10,Medium,No
+26950,Married,3.0,9,High,No
+118780,Married,2.0,5,High,No
+170680,Single,3.0,1,Medium,No
+24550,Married,1.0,2,Low,No
+139640,Divorced,1.0,3,High,No
+49410,Divorced,9.0,2,Very High,No
+24780,Married,6.0,5,High,No
+52280,Married,2.0,1,High,No
+44780,Single,0.0,4,Very High,No
+75470,Single,7.0,2,Low,No
+50550,Divorced,5.0,25,Very High,No
+34640,Single,1.0,8,Very High,Yes
+57750,Single,1.0,1,Low,Yes
+89430,Divorced,8.0,12,Low,No
+192720,Married,9.0,23,High,Yes
+52380,Single,1.0,19,Low,Yes
+46820,Married,1.0,5,Low,No
+183000,Married,0.0,8,Low,No
+52570,Married,1.0,1,High,No
+63490,Married,0.0,5,High,No
+48690,Married,4.0,1,Very High,No
+99850,Married,1.0,11,High,No
+36970,Married,3.0,23,Medium,No
+74570,Single,3.0,1,High,No
+21190,Married,9.0,18,Low,Yes
+39830,Divorced,4.0,23,Very High,No
+61180,Single,0.0,7,Low,Yes
+62140,Single,1.0,1,High,Yes
+63470,Divorced,1.0,1,High,No
+115100,Single,0.0,29,Very High,No
+71430,Divorced,2.0,7,Very High,No
+82680,Married,1.0,25,Very High,Yes
+80950,Divorced,1.0,8,High,Yes
+29040,Single,4.0,8,Medium,Yes
+60320,Married,0.0,11,Low,No
+29760,Divorced,1.0,7,Medium,Yes
+159920,Single,3.0,1,High,Yes
+46490,Married,0.0,9,Medium,No
+26960,Married,3.0,1,Very High,No
+23700,Single,2.0,2,Very High,No
+125040,Married,1.0,1,High,No
+59740,Single,7.0,1,Medium,No
+47360,Divorced,0.0,6,High,No
+52960,Divorced,4.0,8,Very High,No
+67810,Divorced,0.0,1,Medium,No
+21740,Married,3.0,6,High,No
+66530,Single,7.0,7,Medium,No
+96990,Married,8.0,5,Low,No
+67550,Divorced,7.0,1,Very High,Yes
+22130,Single,1.0,1,High,No
+26100,Single,1.0,1,Medium,No
+28510,Single,9.0,6,Medium,No
+34520,Single,2.0,1,Very High,No
+52580,Married,0.0,7,Very High,No
+93550,Married,0.0,2,Medium,No
+104960,Divorced,1.0,9,Very High,No
+63800,Married,6.0,2,Medium,No
+26570,Single,2.0,9,High,No
+27160,Divorced,0.0,1,Medium,No
+22010,Single,4.0,21,Very High,No
+65400,Married,1.0,4,Very High,No
+38160,Married,1.0,1,High,No
+52530,Divorced,1.0,6,High,No
+109650,Single,1.0,2,High,Yes
+49360,Single,0.0,3,Low,Yes
+25430,Married,3.0,4,Very High,No
+53040,Married,1.0,10,High,Yes
+42600,Married,1.0,6,High,No
+24760,Married,1.0,1,High,No
+31020,Single,1.0,6,High,No
+22440,Married,1.0,6,Low,Yes
+75960,Single,9.0,2,High,No
+22850,Single,0.0,2,Low,Yes
+30340,Single,7.0,1,Low,No
+57150,Married,6.0,5,High,No
+25760,Single,8.0,7,Medium,No
+41970,Married,1.0,15,Very High,Yes
+143360,Married,1.0,1,Very High,No
+194060,Married,3.0,26,Very High,No
+65380,Divorced,2.0,18,Medium,No
+43060,Single,0.0,6,Low,No
+22580,Married,1.0,3,Very High,No
+45220,Single,8.0,5,High,Yes
+44870,Divorced,1.0,11,Low,No
+44490,Divorced,4.0,3,Low,No
+22180,Married,1.0,26,Very High,No
+191970,Single,1.0,23,Low,No
+132120,Married,4.0,22,High,No
+65770,Married,1.0,14,Very High,No
+83920,Single,1.0,6,High,No
+45580,Single,1.0,6,High,Yes
+40310,Divorced,3.0,6,High,No
+79690,Married,0.0,23,Very High,No
+26540,Married,0.0,22,Very High,Yes
+165550,Married,8.0,2,Low,No
+45560,Single,2.0,20,High,No
+60910,Married,1.0,28,High,No
+195660,Divorced,6.0,12,Low,Yes
+48100,Divorced,8.0,20,Low,No
+45230,Married,5.0,9,Medium,No
+23510,Married,1.0,6,Low,No
+17020,Married,5.0,8,Medium,No
+180410,Married,3.0,4,Low,No
+28860,Married,1.0,28,Medium,Yes
+20970,Married,1.0,9,High,No
+119350,Divorced,1.0,9,High,No
+25460,Divorced,1.0,29,High,No
+25640,Single,1.0,3,Very High,No
+84120,Single,1.0,18,Very High,No
+141180,Divorced,2.0,9,Very High,No
+170460,Married,7.0,5,Low,No
+25640,Divorced,0.0,2,Very High,No
+102660,Married,1.0,10,Medium,No
+50700,Single,4.0,9,High,No
+178610,Divorced,2.0,3,Low,No
+42300,Married,0.0,26,Very High,No
+37800,Divorced,7.0,1,Medium,No
+27680,Single,0.0,6,Very High,No
+90710,Married,0.0,9,Medium,No
+106480,Married,3.0,8,Low,No
+136100,Married,4.0,1,Very High,No
+34080,Married,1.0,7,Low,No
+29830,Divorced,7.0,9,High,No
+76320,Married,1.0,4,Very High,No
+98240,Single,1.0,2,Medium,Yes
+99500,Divorced,1.0,19,Very High,No
+20930,Married,3.0,9,Very High,No
+99800,Married,1.0,21,Low,No
+38940,Single,1.0,24,Low,No
+40510,Single,5.0,3,Very High,No
+168350,Married,3.0,11,Very High,No
+62300,Married,2.0,14,High,No
+47170,Married,1.0,5,Medium,No
+132370,Single,5.0,1,Medium,No
+37550,Divorced,1.0,6,High,No
+65820,Divorced,1.0,17,Very High,No
+74060,Single,6.0,1,Very High,No
+27410,Married,0.0,9,High,No
+42620,Married,7.0,4,Medium,No
+161840,Divorced,0.0,8,High,No
+115570,Single,1.0,2,Very High,No
+18780,Married,1.0,2,High,No
+109320,Single,1.0,1,Very High,Yes
+68110,Single,1.0,9,Very High,No
+43060,Single,2.0,12,Medium,Yes
+48590,Divorced,1.0,27,Medium,No
+53370,Single,1.0,20,High,Yes
+23400,Married,2.0,1,Medium,No
+74910,Single,0.0,13,Low,No
+105270,Divorced,4.0,14,Medium,No
+165950,Single,6.0,4,Very High,No
+88340,Divorced,4.0,14,Medium,No
+55770,Single,0.0,2,High,No
+47070,Divorced,1.0,3,Low,No
+24000,Married,4.0,1,Medium,No
+98240,Married,0.0,9,High,No
+64470,Married,6.0,23,Medium,No
+195020,Single,3.0,7,Very High,No
+27250,Single,9.0,2,Medium,No
+62720,Married,1.0,21,Very High,Yes
+21270,Married,1.0,2,Very High,No
+182000,Single,0.0,21,High,No
+20960,Single,7.0,2,High,No
+28860,Divorced,3.0,29,High,Yes
+20330,Single,2.0,1,Low,No
+36220,Single,1.0,18,Medium,No
+42330,Married,1.0,10,Very High,No
+54600,Divorced,6.0,29,Medium,No
+21870,Divorced,1.0,27,High,No
+96020,Married,1.0,5,High,Yes
+28360,Single,0.0,18,Low,Yes
+40890,Married,0.0,9,Very High,No
+166270,Married,3.0,1,High,No
+26190,Single,6.0,4,Low,No
+56790,Married,0.0,1,Very High,No
+154020,Married,4.0,20,Low,No
+59850,Single,2.0,8,Medium,Yes
+25790,Single,9.0,3,Medium,Yes
+30410,Married,1.0,6,Low,No
+34470,Single,0.0,26,High,No
+195130,Divorced,1.0,1,High,No
+27730,Single,1.0,6,Medium,No
+71040,Single,1.0,3,Medium,Yes
+63220,Married,4.0,5,Low,Yes
+20830,Married,0.0,4,High,No
+83810,Married,4.0,11,High,No
+26910,Single,6.0,3,Medium,No
+42860,Divorced,9.0,1,High,No
+26590,Divorced,0.0,3,Very High,No
+94340,Single,1.0,4,Very High,No
+55610,Divorced,0.0,1,Low,No
+66460,Single,1.0,1,High,No
+77250,Divorced,1.0,18,Medium,No
+107250,Divorced,3.0,2,Low,No
+88470,Single,1.0,4,Low,No
+20450,Married,3.0,6,Very High,No
+10090,Married,7.0,1,Low,Yes
+33480,Married,3.0,14,Medium,No
+12810,Married,2.0,16,Low,No
+28190,Single,1.0,2,Very High,No
+48510,Married,8.0,2,Very High,No
+40280,Single,3.0,4,Medium,No
+27200,Single,1.0,1,Very High,No
+81200,Married,0.0,1,Very High,No
+46470,Single,3.0,26,Very High,No
+46800,Single,6.0,19,High,Yes
+32210,Married,4.0,24,Medium,No
+86210,Divorced,1.0,1,High,No
+45770,Divorced,5.0,3,High,No
+45530,Married,4.0,5,High,No
+53960,Single,7.0,2,Very High,Yes
+67960,Married,0.0,1,High,Yes
+76250,Divorced,1.0,7,High,No
+74120,Single,1.0,10,Very High,No
+111590,Married,1.0,2,Low,No
+49600,Married,1.0,15,High,Yes
+104750,Married,3.0,17,Very High,No
+148140,Married,2.0,20,Medium,No
+191410,Divorced,3.0,1,Very High,No
+54050,Married,7.0,2,High,No
+87930,Married,6.0,2,Very High,No
+191890,Married,0.0,1,Medium,No
+38750,Married,3.0,29,High,No
+117130,Married,2.0,2,High,No
+78610,Single,1.0,2,High,No
+37080,Married,1.0,2,Very High,No
+137700,Single,1.0,2,High,Yes
+53040,Single,0.0,2,Very High,No
+26420,Married,0.0,23,Low,No
+27590,Married,9.0,5,Low,No
+68040,Single,4.0,20,High,No
+61420,Single,2.0,6,Very High,No
+25000,Married,4.0,1,Very High,No
+63890,Single,0.0,29,Low,No
+111030,Single,1.0,9,Low,No
+23420,Single,3.0,6,Low,Yes
+68110,Single,0.0,3,Very High,Yes
+22970,Single,6.0,1,Very High,No
+24500,Married,3.0,22,Low,No
+50930,Divorced,2.0,7,Very High,No
+53090,Single,3.0,1,Medium,No
+30570,Single,1.0,4,High,Yes
+51210,Divorced,7.0,3,Low,No
+168560,Single,3.0,1,Medium,No
+26860,Divorced,5.0,2,Low,No
+61800,Single,1.0,20,Medium,Yes
+66320,Married,0.0,11,Low,No
+35050,Single,1.0,1,Very High,No
+63970,Married,4.0,24,Low,No
+62740,Married,7.0,23,Very High,No
+198590,Married,3.0,16,Low,Yes
+75870,Single,0.0,8,High,No
+42580,Married,2.0,10,Low,No
+43640,Married,3.0,3,High,No
+43350,Married,1.0,5,High,No
+53260,Married,4.0,4,Very High,No
+32800,Married,5.0,9,Medium,No
+54850,Married,2.0,26,High,No
+43420,Divorced,3.0,3,High,No
+27820,Divorced,1.0,16,Very High,No
+59800,Divorced,4.0,18,Very High,Yes
+43810,Single,2.0,2,Low,Yes
+25720,Single,1.0,2,Medium,Yes
+38330,Divorced,2.0,10,Low,No
+42440,Single,9.0,16,Medium,No
+65000,Married,6.0,7,Very High,Yes
+184300,Married,4.0,1,Very High,No
+16010,Divorced,4.0,24,Low,No
+26940,Married,1.0,7,High,Yes
+31490,Divorced,2.0,25,Medium,No
+176390,Single,0.0,1,Low,No
+23190,Single,3.0,5,High,No
+116910,Single,4.0,2,Medium,No
+53240,Married,2.0,7,High,No
+167520,Divorced,2.0,2,High,No
+52280,Single,1.0,5,Medium,No
+27000,Married,0.0,10,Low,No
+192460,Single,3.0,10,Low,No
+25060,Married,8.0,1,High,No
+60620,Single,1.0,8,Very High,No
+43820,Married,7.0,5,High,No
+21430,Divorced,1.0,8,High,No
+61620,Married,0.0,2,High,No
+50940,Divorced,3.0,7,Medium,No
+68770,Divorced,7.0,2,Low,No
+22740,Married,3.0,2,High,Yes
+62880,Single,0.0,7,Medium,Yes
+25530,Married,1.0,7,High,No
+76540,Single,2.0,3,Low,Yes
+51600,Married,1.0,10,Medium,No
+171590,Single,5.0,5,High,No
+128080,Divorced,1.0,10,High,No
+102210,Divorced,0.0,1,High,No
+47790,Married,0.0,20,High,No
+37370,Married,8.0,7,Medium,No
+23660,Married,3.0,8,High,No
+17060,Single,7.0,1,Low,Yes
+163070,Divorced,1.0,8,High,No
+59330,Single,0.0,9,Low,No
+34240,Married,4.0,5,Low,No
+40370,Married,0.0,8,Medium,No
+25590,Married,1.0,5,Medium,No
+62010,Single,2.0,15,High,No
+44030,Single,2.0,7,Very High,No
+37610,Divorced,3.0,10,Very High,No
+109340,Single,6.0,5,Low,Yes
+107610,Married,3.0,26,Low,No
+51750,Single,4.0,6,Medium,No
+138260,Married,8.0,4,Medium,No
+63340,Single,1.0,23,Medium,No
+49360,Single,0.0,2,High,No
+47750,Single,3.0,2,Low,Yes
+28180,Married,1.0,2,High,No
+25150,Single,1.0,29,High,Yes
+23420,Single,1.0,6,Very High,No
+41940,Married,0.0,25,High,No
+106850,Married,4.0,1,Medium,No
+20220,Married,1.0,2,Very High,No
+23140,Married,3.0,1,Low,No
+42560,Single,1.0,1,Medium,No
+35800,Married,4.0,3,Very High,No
+31620,Married,2.0,1,Very High,No
+65240,Married,0.0,10,Low,No
+28990,Married,1.0,9,High,No
+52310,Single,1.0,5,Very High,No
+23560,Divorced,0.0,10,Low,No
+28000,Divorced,3.0,7,Very High,No
+118360,Divorced,1.0,4,Medium,No
+109030,Married,0.0,10,High,No
+29730,Married,3.0,22,Medium,No
+142750,Single,3.0,9,Very High,No
+55620,Divorced,8.0,12,High,No
+76420,Married,2.0,9,Low,No
+179240,Married,1.0,1,Low,Yes
+52040,Married,3.0,9,High,No
+22770,Single,1.0,7,Low,No
+27950,Married,3.0,14,Medium,No
+25320,Divorced,1.0,2,Low,Yes
+25590,Married,0.0,19,Very High,Yes
+49080,Married,4.0,2,Medium,Yes
+23800,Married,4.0,10,Low,No
+47650,Married,8.0,2,Low,No
+20440,Single,1.0,3,Very High,No
+26930,Married,1.0,11,Very High,No
+32940,Married,1.0,4,Very High,No
+27780,Single,2.0,2,Medium,No
+23770,Single,6.0,1,High,No
+24040,Single,1.0,10,Low,No
+23180,Single,3.0,12,High,No
+20080,Married,2.0,2,High,No
+62440,Divorced,1.0,5,Very High,No
+27990,Married,4.0,4,High,No
+105520,Married,2.0,7,High,No
+23290,Married,3.0,21,Low,No
+40140,Single,8.0,8,Very High,No
+74030,Married,1.0,4,High,No
+22590,Married,1.0,25,High,No
+69320,Married,1.0,1,Low,No
+46780,Divorced,5.0,1,Medium,No
+135820,Married,1.0,6,Very High,No
+23320,Single,1.0,12,Low,No
+24130,Married,1.0,1,Medium,Yes
+97050,Married,1.0,17,High,No
+42940,Married,2.0,3,High,No
+47210,Married,3.0,3,Very High,No
+25190,Divorced,0.0,10,Very High,No
+21210,Married,1.0,4,Medium,No
+29730,Single,1.0,29,Low,No
+58550,Married,1.0,2,Low,No
+36170,Single,7.0,7,Low,No
+67250,Married,9.0,18,High,No
+103250,Divorced,1.0,28,Very High,No
+69490,Married,1.0,1,Low,No
+106090,Married,2.0,6,Low,No
+44470,Divorced,1.0,2,Low,No
+21570,Married,1.0,2,Low,No
+46010,Divorced,0.0,23,Low,No
+170990,Single,1.0,3,Very High,No
+24790,Single,1.0,3,Very High,Yes
+148520,Married,3.0,25,High,No
+72640,Divorced,0.0,2,High,No
+56660,Married,1.0,22,High,No
+78230,Married,1.0,29,High,No
+78800,Married,3.0,29,High,No
+131940,Single,0.0,2,High,No
+50670,Divorced,1.0,28,Very High,No
+50790,Married,3.0,2,High,No
+23210,Married,9.0,2,Low,Yes
+174440,Married,1.0,22,Medium,No
+24040,Single,6.0,8,Very High,No
+34520,Married,4.0,2,Very High,No
+22700,Married,2.0,10,Very High,No
+54880,Single,1.0,15,Very High,No
+194190,Married,7.0,10,High,No
+28110,Single,2.0,7,Very High,No
+36330,Single,3.0,16,Low,Yes
+41630,Single,9.0,20,High,No
+21320,Married,4.0,23,Low,No
+139730,Divorced,1.0,5,High,No
+26840,Married,4.0,10,Medium,No
+108450,Married,3.0,4,Medium,No
+43770,Divorced,5.0,2,Low,No
+37430,Single,1.0,18,High,No
+41480,Divorced,1.0,10,Medium,No
+10510,Single,2.0,1,Medium,No
+107390,Married,2.0,6,High,No
+103880,Married,0.0,8,High,No
+114160,Divorced,6.0,2,Low,No
+26000,Married,3.0,24,High,No
+24220,Married,1.0,2,High,No
+54720,Single,3.0,17,Very High,Yes
+24510,Married,7.0,19,Very High,No
+42400,Divorced,1.0,1,Medium,No
+109990,Divorced,1.0,7,Very High,No
+127420,Married,1.0,28,Very High,No
+42270,Divorced,4.0,2,Low,No
+39170,Single,1.0,29,Medium,No
+183030,Divorced,6.0,1,Medium,No
+23800,Single,4.0,21,High,No
+137260,Single,3.0,24,High,No
+47770,Single,1.0,1,Low,No
+63850,Divorced,1.0,18,Very High,No
+199730,Married,6.0,2,High,No
+68610,Divorced,4.0,9,Very High,No
+49690,Single,1.0,6,High,Yes
+198450,Married,7.0,11,High,No
+133200,Married,3.0,24,Very High,No
+63470,Married,2.0,10,High,Yes
+27430,Single,1.0,1,Medium,Yes
+108800,Single,1.0,18,Very High,No
+23420,Divorced,5.0,23,Medium,No
+176500,Married,1.0,28,Very High,No
+40250,Divorced,3.0,17,Very High,No
+97250,Married,1.0,3,Medium,No
+119040,Divorced,1.0,13,Very High,No
+21770,Married,1.0,7,Very High,No
+75250,Divorced,1.0,12,Very High,Yes
+48340,Married,1.0,1,Very High,No
+20420,Single,0.0,13,Very High,No
+22200,Married,1.0,25,Very High,No
+10520,Married,1.0,6,High,No
+28210,Single,1.0,6,High,No
+192370,Married,9.0,2,High,No
+41070,Single,3.0,1,Very High,No
+83960,Married,3.0,2,High,No
+20070,Married,1.0,6,High,Yes
+196270,Married,7.0,1,High,Yes
+106860,Married,1.0,9,High,No
+29420,Single,1.0,1,Medium,No
+88580,Married,6.0,1,High,No
+167560,Married,1.0,14,High,No
+107980,Married,6.0,2,Medium,No
+23230,Married,2.0,22,Low,No
+14160,Divorced,1.0,3,Low,No
+46150,Single,6.0,6,Medium,No
+24610,Married,2.0,8,High,No
+87220,Married,1.0,9,Very High,No
+39550,Married,7.0,3,Medium,No
+99570,Divorced,4.0,1,Very High,No
+33760,Divorced,5.0,1,Low,Yes
+88230,Single,6.0,26,Medium,Yes
+103220,Single,1.0,6,Medium,No
+46210,Single,2.0,3,Very High,No
+109760,Married,1.0,3,Very High,No
+36600,Married,3.0,6,High,No
+104820,Single,1.0,6,Medium,No
+71190,Married,4.0,19,High,No
+95820,Single,0.0,9,Low,No
+22070,Divorced,6.0,10,Very High,Yes
+77560,Married,1.0,3,High,No
+66940,Single,1.0,3,Very High,No
+36910,Single,1.0,4,Medium,Yes
+23770,Single,8.0,8,High,No
+23130,Divorced,2.0,7,Low,No
+176650,Married,0.0,1,Very High,No
+25960,Single,8.0,2,Medium,No
+47280,Single,3.0,3,Very High,No
+43020,Single,2.0,10,Low,Yes
+29790,Married,4.0,28,Medium,No
+168850,Married,2.0,9,High,Yes
+55930,Divorced,1.0,3,Low,No
+104450,Married,3.0,2,High,No
+87400,Single,2.0,10,Medium,No
+25140,Married,3.0,8,Very High,No
+76550,Married,9.0,1,High,Yes
+174650,Divorced,8.0,1,Medium,No
+73510,Married,8.0,3,Low,No
+108200,Divorced,5.0,14,Medium,No
+121690,Divorced,1.0,5,Low,No
+196260,Divorced,1.0,7,High,No
+20700,Married,4.0,10,High,No
+67820,Single,0.0,16,Very High,No
+77790,Single,5.0,10,Very High,No
+27910,Single,1.0,1,Medium,Yes
+32010,Married,1.0,8,High,No
+49680,Married,1.0,1,Low,Yes
+131200,Married,1.0,8,Very High,No
+40330,Married,2.0,1,High,No
+32910,Married,1.0,24,Medium,No
+42720,Divorced,7.0,3,Very High,No
+50560,Married,7.0,27,Low,No
+28440,Divorced,1.0,10,Medium,Yes
+27030,Divorced,2.0,19,Medium,No
+19040,Single,1.0,15,Very High,Yes
+82240,Married,6.0,8,Low,No
+47660,Married,1.0,9,Very High,No
+26100,Single,7.0,3,High,No
+57310,Single,8.0,9,Medium,No
+25390,Married,4.0,2,Low,No
+57140,Married,5.0,7,Low,No
+43230,Divorced,2.0,10,Very High,No
+73360,Divorced,5.0,6,Medium,No
+134990,Married,4.0,2,Low,Yes
+137580,Single,1.0,24,Low,Yes
+51550,Divorced,2.0,2,Very High,No
+22580,Single,4.0,8,High,No
+35970,Single,3.0,3,Medium,No
+25150,Divorced,0.0,1,High,No
+44200,Single,9.0,26,High,No
+65780,Married,0.0,2,Medium,Yes
+44220,Married,4.0,10,Medium,Yes
+102740,Divorced,4.0,27,Very High,No
+53430,Married,1.0,2,High,No
+23760,Divorced,4.0,2,Medium,No
+53460,Married,0.0,8,High,No
+28270,Divorced,8.0,19,Medium,No
+199430,Divorced,2.0,1,Low,No
+31310,Married,4.0,27,Very High,No
+25520,Married,2.0,8,Low,No
+44770,Married,1.0,1,Low,No
+64740,Married,2.0,19,Very High,No
+30330,Single,1.0,8,Very High,No
+29360,Married,2.0,10,High,No
+186060,Single,1.0,2,High,No
+21680,Married,0.0,2,Low,Yes
+28530,Divorced,4.0,8,Low,Yes
+170480,Married,4.0,1,High,No
+22900,Married,4.0,2,Medium,No
+36000,Married,1.0,8,Very High,No
+21070,Single,0.0,8,Very High,No
+41150,Married,1.0,6,Very High,No
+43270,Single,8.0,9,Very High,No
+178560,Married,3.0,11,High,No
+31960,Single,4.0,2,High,No
+190810,Divorced,3.0,1,Very High,No
+89660,Divorced,1.0,7,Very High,No
+22100,Divorced,8.0,16,High,No
+45390,Single,4.0,2,High,No
+27410,Single,7.0,1,Medium,Yes
+34910,Divorced,2.0,23,Low,No
+45410,Married,1.0,2,High,No
+26780,Married,1.0,1,Medium,No
+73790,Married,7.0,1,High,No
+62720,Married,4.0,2,Medium,No
+52200,Single,1.0,13,Very High,Yes
+27430,Married,5.0,4,Medium,Yes
+49980,Married,0.0,16,Low,No
+27810,Married,8.0,2,Very High,No
+68520,Married,1.0,29,Medium,No
+49500,Single,1.0,12,Very High,Yes
+35790,Single,1.0,16,Medium,Yes
+131910,Married,1.0,11,High,No
+103770,Divorced,1.0,2,High,No
+22350,Married,2.0,14,Very High,No
+105020,Single,3.0,5,Low,No
+20110,Married,5.0,7,Low,No
+18590,Married,0.0,2,Medium,No
+37600,Married,0.0,3,Very High,No
+177790,Single,1.0,5,Very High,No
+68330,Divorced,2.0,3,Low,No
+68120,Married,1.0,26,High,No
+197400,Divorced,3.0,2,Very High,No
+187110,Married,2.0,1,Low,No
+36920,Married,1.0,27,Low,Yes
+25590,Single,1.0,1,Very High,Yes
+25170,Married,2.0,13,Medium,No
+66230,Married,5.0,5,Medium,No
+182650,Married,9.0,7,Low,No
+161240,Divorced,2.0,9,Very High,No
+25850,Married,3.0,8,Very High,No
+182130,Divorced,8.0,25,High,No
+29940,Single,4.0,8,High,No
+12230,Single,1.0,1,High,No
+11180,Married,1.0,8,Very High,No
+28750,Single,1.0,2,Low,Yes
+188240,Married,6.0,8,High,No
+135770,Married,1.0,3,Medium,No
+26250,Married,1.0,9,Very High,No
+187890,Single,3.0,25,High,Yes
+45380,Married,8.0,1,Medium,No
+198470,Married,4.0,4,Low,No
+105120,Married,1.0,1,Low,No
+44440,Divorced,1.0,4,Medium,No
+21540,Married,4.0,5,Very High,No
+191900,Single,3.0,9,High,Yes
+44900,Divorced,2.0,3,Very High,No
+35060,Married,3.0,11,Very High,No
+23720,Divorced,3.0,1,Very High,No
+102310,Married,1.0,8,Medium,Yes
+54100,Married,0.0,25,Low,No
+79780,Single,1.0,21,High,No
+38670,Divorced,1.0,23,Low,No
+28380,Married,1.0,1,Medium,No
+46950,Single,1.0,2,Very High,No
+33390,Divorced,1.0,19,High,No
+20800,Single,0.0,2,Low,No
+20960,Married,0.0,2,Low,No
+62090,Divorced,5.0,3,Very High,No
+180610,Married,1.0,25,Low,No
+171230,Divorced,5.0,7,Very High,Yes
+23720,Single,4.0,9,Low,No
+48830,Married,1.0,5,Very High,No
+39040,Single,1.0,2,Very High,No
+46270,Single,8.0,8,Very High,No
+70940,Married,1.0,2,Very High,Yes
+34230,Single,6.0,18,Low,Yes
+66740,Married,3.0,14,High,No
+168800,Divorced,1.0,2,High,No
+90940,Married,1.0,3,High,No
+84460,Married,0.0,2,Medium,No
+119160,Married,4.0,9,Medium,No
+45340,Divorced,1.0,6,Very High,No
+98520,Single,0.0,4,Low,No
+61510,Single,1.0,10,High,No
+23020,Married,4.0,14,High,No
+23620,Single,6.0,1,Low,No
+178610,Single,1.0,5,High,No
+191870,Single,1.0,7,Very High,No
+197170,Married,1.0,21,High,No
+35440,Married,3.0,8,Medium,No
+85000,Married,4.0,20,Medium,No
+46610,Married,1.0,20,Medium,No
+41030,Divorced,6.0,7,High,No
+42490,Single,2.0,1,High,No
+140260,Divorced,1.0,1,High,No
+68930,Married,0.0,19,Medium,No
+61250,Married,0.0,10,High,No
+36690,Married,2.0,1,High,No
+100080,Divorced,6.0,6,Low,No
+23870,Married,3.0,2,Very High,No
+46390,Married,0.0,21,Medium,No
+78980,Married,7.0,4,High,No
+25340,Single,0.0,12,High,No
+131420,Single,1.0,9,High,No
+16110,Married,0.0,3,Very High,No
+53630,Single,1.0,3,Medium,No
+50710,Married,8.0,1,Very High,No
+136950,Married,0.0,1,Medium,No
+134020,Single,7.0,4,Very High,No
+20290,Married,3.0,20,High,No
+63770,Married,1.0,18,Very High,No
+54290,Married,1.0,1,Very High,No
+27850,Divorced,0.0,2,High,No
+46140,Divorced,2.0,2,Very High,No
+26100,Single,6.0,8,Very High,No
+66870,Single,1.0,10,Low,No
+47240,Single,2.0,3,Very High,No
+61790,Married,1.0,2,Low,Yes
+61200,Married,0.0,24,Very High,No
+105960,Divorced,7.0,16,Medium,No
+54670,Divorced,1.0,8,High,No
+29960,Married,9.0,9,Very High,Yes
+99980,Married,5.0,17,High,No
+40780,Married,8.0,10,High,Yes
+109200,Married,0.0,13,Medium,No
+62320,Married,1.0,1,High,No
+132470,Divorced,1.0,1,Very High,No
+40810,Divorced,2.0,1,Medium,No
+57690,Single,1.0,9,Low,No
+23940,Single,1.0,16,Very High,No
+39040,Married,1.0,23,Very High,No
+167990,Divorced,7.0,4,High,Yes
+36290,Single,8.0,24,High,No
+32290,Married,1.0,7,High,No
+35780,Married,2.0,17,High,No
+79880,Married,1.0,14,Very High,No
+42840,Married,4.0,1,Medium,No
+75530,Single,1.0,5,Low,No
+173280,Divorced,4.0,17,Low,Yes
+197010,Married,0.0,25,Very High,No
+147320,Single,0.0,8,Low,No
+92780,Single,0.0,11,High,No
+13590,Married,4.0,5,Very High,No
+47790,Married,4.0,2,Low,No
+164220,Married,1.0,8,Medium,No
+29960,Married,2.0,6,Medium,No
+12610,Married,2.0,4,High,No
+20990,Single,8.0,7,Very High,Yes
+58100,Married,1.0,1,Medium,No
+56470,Single,6.0,2,High,Yes
+34200,Married,1.0,10,High,No
+44000,Married,9.0,5,Medium,No
+35000,Single,0.0,9,Very High,No
+20660,Married,4.0,2,Low,No
+171690,Divorced,1.0,11,High,No
+41620,Single,0.0,18,High,No
+92040,Married,6.0,7,High,No
+32940,Married,0.0,3,Medium,No
+21270,Single,0.0,29,High,No
+107930,Divorced,0.0,28,Very High,No
+100960,Single,5.0,1,High,Yes
+36460,Divorced,1.0,16,Low,No
+74460,Divorced,0.0,22,Medium,No
+108510,Divorced,1.0,8,Very High,No
+21090,Married,2.0,11,Very High,No
+37220,Single,5.0,29,Very High,No
+93800,Divorced,0.0,1,High,No
+54860,Single,7.0,1,Low,Yes
+27420,Single,0.0,24,Medium,No
+137570,Single,1.0,2,Very High,No
+84630,Single,2.0,15,Low,Yes
+31620,Divorced,4.0,2,High,No
+165980,Single,1.0,10,Low,Yes
+66510,Married,0.0,10,Medium,No
+23450,Married,3.0,3,Very High,No
+34200,Single,3.0,2,Low,No
+43730,Single,4.0,3,Very High,No
+47590,Married,2.0,26,Very High,No
+53010,Single,1.0,1,High,No
+36730,Married,3.0,1,Very High,Yes
+47680,Married,2.0,2,Very High,Yes
+12740,Divorced,1.0,9,High,No
+49000,Married,1.0,12,High,Yes
+104660,Married,1.0,2,Very High,No
+170070,Married,9.0,25,Low,No
+29090,Married,2.0,9,Low,No
+57650,Divorced,1.0,10,Very High,No
+45990,Divorced,1.0,8,Low,No
+24040,Single,1.0,4,High,Yes
+31720,Single,1.0,24,High,No
+20330,Single,1.0,1,Very High,No
+102090,Married,1.0,20,High,Yes
+86200,Single,0.0,7,High,No
+20640,Married,4.0,17,Medium,No
+38380,Married,1.0,8,Very High,No
+45910,Single,9.0,2,High,Yes
+25610,Single,1.0,10,High,Yes
+15630,Divorced,5.0,1,Low,No
+48980,Married,2.0,5,Low,No
+47890,Married,7.0,4,Very High,No
+31800,Single,1.0,29,Very High,No
+65490,Married,1.0,15,Low,No
+63880,Married,3.0,3,Low,No
+112440,Divorced,3.0,10,Very High,No
+160320,Divorced,1.0,4,High,No
+23620,Married,1.0,21,Very High,No
+163280,Single,1.0,25,Very High,No
+83760,Divorced,5.0,2,High,No
+166060,Single,7.0,1,Low,No
+86060,Divorced,1.0,1,High,No
+22720,Divorced,2.0,7,High,No
+20180,Single,1.0,3,Medium,No
+70830,Divorced,2.0,1,Low,No
+40840,Married,4.0,9,Low,No
+144110,Married,0.0,7,High,Yes
+23080,Single,7.0,10,High,No
+48410,Married,0.0,28,Medium,No
+42850,Single,1.0,3,Medium,No
+97150,Married,1.0,3,Medium,No
+43200,Married,3.0,2,Very High,No
+21320,Single,1.0,27,Very High,No
+101240,Single,0.0,2,Low,No
+54730,Married,4.0,14,Low,No
+52070,Single,4.0,1,High,No
+164370,Divorced,8.0,9,Medium,No
+22960,Married,1.0,18,Very High,No
+40690,Single,1.0,20,High,No
+74410,Married,3.0,2,Very High,No
+24300,Divorced,7.0,11,Very High,No
+58780,Married,1.0,8,Medium,No
+26440,Single,4.0,2,Very High,No
+64390,Divorced,3.0,10,Low,No
+24510,Married,3.0,29,Very High,No
+63920,Married,1.0,8,Very High,No
+97140,Single,1.0,1,Very High,Yes
+60770,Married,1.0,6,Medium,No
+24500,Single,0.0,8,Very High,No
+92500,Divorced,1.0,9,Medium,No
+20740,Married,2.0,12,Low,No
+101690,Single,1.0,15,High,No
+48550,Married,9.0,25,High,No
+40870,Married,0.0,6,High,No
+23670,Married,1.0,9,High,No
+29720,Single,0.0,8,High,No
+195860,Married,4.0,23,Medium,No
+20610,Single,1.0,12,Low,No
+99240,Single,1.0,4,Very High,Yes
+41980,Single,1.0,1,High,No
+68150,Divorced,5.0,24,Very High,No
+47230,Married,9.0,12,Very High,No
+61420,Married,3.0,3,Medium,No
+82370,Single,1.0,10,High,Yes
+88530,Married,1.0,26,Very High,No
+193310,Single,1.0,2,Very High,No
+20730,Single,3.0,1,Low,No
+196130,Single,2.0,9,Very High,No
+34070,Married,0.0,2,High,No
+50630,Divorced,6.0,4,Medium,No
+46390,Single,2.0,6,Very High,No
+48760,Single,2.0,9,Low,No
+26900,Married,0.0,7,Very High,No
+175670,Divorced,5.0,1,Very High,No
+24080,Married,1.0,3,Very High,No
+28140,Divorced,1.0,10,High,No
+112450,Married,0.0,7,Medium,No
+33120,Married,9.0,15,Medium,Yes
+190490,Single,7.0,3,High,No
+21410,Married,4.0,2,High,Yes
+57690,Married,1.0,17,Medium,No
+43850,Married,1.0,2,Very High,Yes
+53320,Single,1.0,5,High,Yes
+46630,Married,0.0,29,Very High,No
+47240,Married,1.0,2,Low,No
+32110,Single,4.0,2,High,No
+53770,Single,4.0,19,Very High,No
+40660,Married,3.0,15,High,Yes
+52080,Divorced,3.0,17,High,No
+48770,Married,1.0,17,High,No
+31170,Divorced,6.0,25,Medium,No
+15690,Single,2.0,6,Very High,Yes
+196580,Married,4.0,7,High,No
+30690,Married,2.0,29,High,No
+104350,Married,0.0,21,Very High,No
+41480,Single,7.0,2,Low,Yes
+57680,Single,5.0,2,Very High,No
+50420,Single,3.0,7,High,No
+57700,Single,1.0,13,High,No
+77560,Divorced,0.0,2,Very High,No
+103060,Divorced,5.0,1,Low,No
+39360,Single,0.0,9,Very High,No
+79450,Divorced,4.0,10,Low,No
+57430,Married,2.0,10,Low,No
+152020,Single,1.0,1,Medium,No
+54400,Divorced,1.0,26,Medium,No
+37600,Married,1.0,8,Medium,No
+35170,Married,2.0,14,High,No
+25800,Divorced,8.0,1,Medium,No
+21660,Single,1.0,2,Very High,No
+58690,Married,1.0,10,High,No
+80080,Married,2.0,1,High,No
+52060,Married,4.0,3,Medium,No
+52950,Married,7.0,11,Very High,No
+164130,Married,6.0,24,High,No
+132690,Married,1.0,3,Very High,No
+27830,Divorced,6.0,3,Medium,No
+54330,Married,1.0,4,Very High,No
+20130,Divorced,3.0,3,Very High,No
+139660,Divorced,1.0,2,High,No
+43740,Single,3.0,4,Medium,No
+68420,Divorced,4.0,7,High,No
+174260,Married,2.0,1,Very High,No
+176030,Single,4.0,1,Very High,No
+45810,Single,3.0,20,High,No
+47350,Married,0.0,5,Medium,No
+41870,Single,0.0,10,Low,Yes
+55050,Single,4.0,25,Medium,No
+54700,Divorced,1.0,1,Low,No
+54760,Divorced,4.0,24,Low,No
+25870,Divorced,4.0,4,Low,No
+24400,Single,0.0,2,Very High,No
+159720,Single,1.0,8,Very High,Yes
+153790,Divorced,1.0,10,Low,No
+70820,Single,1.0,4,Very High,No
+27280,Married,8.0,2,Very High,No
+53680,Single,2.0,9,Medium,No
+53470,Single,1.0,18,Medium,Yes
+31950,Married,2.0,19,High,No
+39890,Divorced,1.0,1,Low,No
+33060,Married,1.0,4,Medium,No
+70050,Married,1.0,11,High,No
+26550,Single,8.0,6,Medium,No
+13930,Married,1.0,7,High,No
+25700,Single,3.0,4,Medium,No
+35370,Married,0.0,2,High,No
+39860,Single,1.0,15,Medium,No
+108830,Married,3.0,2,High,Yes
+20280,Divorced,4.0,6,Very High,No
+95250,Married,9.0,9,Very High,No
+22750,Single,5.0,1,Medium,No
+78790,Divorced,2.0,1,High,No
+49300,Married,9.0,8,High,No
+78470,Married,3.0,25,Very High,No
+44010,Married,5.0,13,Low,No
+92410,Divorced,1.0,23,Very High,No
+29740,Divorced,1.0,7,High,No
+45020,Married,8.0,23,Very High,No
+107480,Married,7.0,6,Low,Yes
+15550,Married,1.0,10,Very High,Yes
+129360,Divorced,1.0,1,Medium,No
+23050,Single,1.0,1,Very High,No
+167040,Married,9.0,28,Very High,No
+34330,Divorced,7.0,25,Low,No
+34770,Married,1.0,5,Very High,Yes
+64300,Single,1.0,17,High,No
+65160,Single,1.0,18,High,No
+39070,Married,5.0,2,Medium,No
+55620,Single,5.0,10,Low,Yes
+68830,Single,3.0,1,Very High,No
+28620,Single,5.0,3,Low,Yes
+49780,Single,0.0,2,High,Yes
+103680,Single,6.0,2,Very High,No
+61340,Married,2.0,8,Low,No
+67350,Single,8.0,16,Medium,No
+32950,Married,6.0,9,Medium,No
+52380,Divorced,1.0,2,Very High,No
+64720,Divorced,0.0,1,High,No
+96100,Married,0.0,4,High,No
+198330,Married,3.0,5,Very High,No
+97560,Divorced,4.0,2,Very High,No
+49680,Married,1.0,15,Very High,No
+21450,Single,1.0,19,High,No
+21800,Single,1.0,7,Very High,Yes
+83460,Single,7.0,1,Very High,No
+34450,Married,1.0,7,Very High,No
+27600,Married,8.0,4,High,No
+62940,Divorced,3.0,11,Very High,No
+71400,Married,5.0,11,Very High,Yes
+29320,Married,5.0,1,Very High,No
+51470,Married,7.0,1,Low,Yes
+45070,Single,1.0,2,High,No
+85640,Married,2.0,13,Medium,No
+24680,Single,0.0,23,High,Yes
+81610,Divorced,7.0,26,High,No
+21090,Married,0.0,2,Very High,No
+52940,Divorced,2.0,29,Low,No
+27180,Divorced,1.0,2,Very High,No
+58110,Married,0.0,18,Very High,No
+24370,Divorced,9.0,7,High,No
+27660,Married,1.0,2,Very High,No
+190380,Married,6.0,26,Low,No
+30550,Married,2.0,22,Low,No
+22890,Married,4.0,21,High,No
+40010,Divorced,6.0,2,High,Yes
+129650,Single,0.0,22,High,No
+35390,Single,1.0,4,Very High,No
+60290,Single,3.0,5,Low,No
+26790,Divorced,2.0,2,Very High,No
+37020,Married,0.0,25,High,No
+54680,Divorced,0.0,28,High,No
+41890,Single,0.0,10,Medium,Yes
+193280,Married,1.0,17,Medium,No
+83210,Married,3.0,2,Very High,No
+23420,Single,4.0,10,Low,No
+40710,Married,3.0,8,Medium,No
+31430,Married,2.0,18,Medium,No
+20440,Married,0.0,1,Very High,No
+134640,Divorced,1.0,7,Low,No
+79910,Married,0.0,17,Very High,No
+33770,Married,0.0,28,Very High,No
+55380,Single,0.0,14,Low,No
+57620,Married,1.0,1,Medium,Yes
+25920,Married,1.0,1,Very High,No
+53460,Married,4.0,1,Very High,No
+42130,Single,1.0,3,High,No
+41270,Divorced,2.0,1,Very High,No
+24380,Divorced,7.0,7,Medium,No
+68700,Divorced,1.0,8,Low,No
+104470,Divorced,1.0,1,Medium,No
+96670,Divorced,3.0,8,Medium,No
+21480,Married,3.0,11,High,No
+89260,Married,1.0,4,High,No
+65130,Single,1.0,16,Very High,No
+67990,Married,3.0,1,Very High,No
+162910,Married,1.0,9,Low,No
+27050,Single,1.0,5,Very High,No
+103330,Divorced,3.0,1,High,Yes
+44480,Divorced,9.0,2,Very High,No
+68540,Divorced,2.0,4,Medium,Yes
+96370,Single,1.0,7,Very High,No
+35910,Single,9.0,1,Low,No
+54050,Single,4.0,5,Medium,No
+46840,Divorced,1.0,9,Medium,No
+157870,Single,1.0,8,Very High,Yes
+15140,Married,1.0,9,Very High,No
+29560,Married,5.0,2,Medium,No
+23350,Single,1.0,1,High,Yes
+51540,Married,0.0,20,Medium,No
+69620,Married,4.0,8,Very High,No
+56750,Divorced,5.0,2,Medium,No
+23790,Single,1.0,29,Medium,No
+38120,Single,1.0,7,High,No
+46480,Single,0.0,9,Low,No
+29360,Married,4.0,8,Very High,No
+21050,Divorced,0.0,5,Very High,No
+27060,Married,1.0,2,High,No
+63840,Married,3.0,5,Medium,No
+39680,Divorced,2.0,2,High,No
+132250,Married,3.0,7,Low,No
+35400,Divorced,1.0,3,Low,No
+28040,Divorced,0.0,16,Very High,No
+193920,Married,6.0,9,Medium,No
+196650,Married,1.0,1,Low,No
+24390,Single,0.0,7,Very High,No
+73140,Single,7.0,1,High,No
+47740,Married,2.0,7,Medium,Yes
+39020,Single,1.0,15,Medium,No
+26620,Married,1.0,1,Medium,No
+28560,Single,1.0,13,High,No
+24720,Single,7.0,7,Very High,No
+56730,Married,5.0,9,Very High,Yes
+41970,Married,1.0,13,Very High,No
+97130,Married,1.0,2,High,No
+20620,Married,1.0,19,Very High,No
+42840,Married,4.0,1,High,Yes
+47880,Single,3.0,4,Very High,No
+59060,Married,4.0,4,High,No
+38860,Divorced,1.0,14,High,No
+168230,Married,0.0,2,Medium,No
+29330,Single,3.0,1,High,No
+65000,Married,8.0,7,Low,No
+171740,Married,9.0,3,Very High,No
+50330,Married,2.0,2,Very High,No
+23070,Married,1.0,29,Low,Yes
+25870,Single,0.0,8,Very High,No
+55070,Divorced,1.0,10,High,No
+43930,Married,1.0,11,Medium,No
+133480,Divorced,7.0,1,Very High,No
+65830,Divorced,0.0,28,Very High,No
+81030,Single,1.0,6,Very High,No
+39780,Divorced,1.0,3,Medium,No
+25440,Single,0.0,16,Medium,No
+53990,Divorced,1.0,20,Very High,No
+54870,Single,6.0,9,Medium,No
+68340,Single,3.0,1,High,No
+10910,Single,2.0,3,Very High,No
+57360,Married,1.0,22,High,No
+22260,Divorced,0.0,7,High,No
+57470,Married,1.0,2,Medium,No
+98540,Married,3.0,13,High,No
+54670,Divorced,4.0,8,Low,No
+53800,Married,7.0,25,High,No
+51510,Married,1.0,28,High,No
+21330,Single,3.0,2,Very High,No
+178750,Single,1.0,9,Medium,Yes
+24320,Single,4.0,28,Very High,No
+47710,Married,4.0,6,Very High,No
+191610,Married,2.0,21,High,No
+50870,Married,3.0,8,High,No
+28630,Single,1.0,1,Very High,No
+55610,Single,1.0,28,High,Yes
+21440,Married,6.0,5,Low,No
+30650,Married,2.0,2,High,No
+28100,Single,1.0,16,Medium,Yes
+98880,Single,6.0,9,Very High,No
+86280,Married,2.0,8,High,Yes
+28670,Single,0.0,1,Medium,No
+53730,Single,1.0,10,Medium,Yes
+66670,Single,9.0,1,Very High,No
+50030,Single,9.0,29,Medium,No
+23670,Divorced,1.0,2,Medium,No
+28580,Single,1.0,2,Very High,No
+52040,Single,8.0,2,High,No
+41050,Married,4.0,1,Very High,No
+96790,Married,4.0,15,High,No
+56170,Single,8.0,7,Very High,Yes
+104480,Single,2.0,26,Very High,No
+28970,Divorced,1.0,1,High,No
+59680,Married,1.0,3,Medium,No
+75100,Single,0.0,14,Low,Yes
+29910,Married,1.0,16,Medium,No
+11290,Single,9.0,3,Very High,Yes
+133410,Divorced,1.0,10,Low,No
+43320,Divorced,7.0,6,Medium,No
+110310,Divorced,3.0,2,Low,No
+44400,Single,2.0,9,Medium,No
+46170,Divorced,1.0,10,Medium,No
+26470,Married,6.0,6,High,No
+63230,Married,4.0,9,Low,No
+56770,Married,9.0,28,High,No
+21870,Married,1.0,10,Low,No
+37480,Married,7.0,14,Very High,No
+39770,Divorced,4.0,27,High,No
+86330,Single,1.0,7,Very High,No
+20080,Married,3.0,1,High,No
+44400,Married,1.0,24,Low,No
+30670,Divorced,1.0,26,High,No
+53210,Married,9.0,20,Low,No
+54100,Single,0.0,5,High,No
+27820,Married,1.0,7,Low,No
+119570,Divorced,1.0,7,Low,No
+26600,Married,5.0,5,Low,Yes
+33750,Married,2.0,26,High,No
+50980,Married,3.0,2,Very High,No
+48780,Married,2.0,12,Very High,No
+28370,Divorced,2.0,10,High,No
+24060,Single,2.0,25,Very High,No
+22690,Married,5.0,10,Low,No
+41080,Divorced,2.0,19,High,No
+132060,Married,0.0,18,Very High,No
+104220,Single,1.0,27,Medium,Yes
+137440,Divorced,0.0,5,High,Yes
+49070,Married,1.0,3,Very High,No
+34820,Married,0.0,26,High,No
+24360,Divorced,1.0,3,Very High,No
+23800,Married,4.0,15,Very High,No
+194310,Married,1.0,8,High,No
+17900,Married,5.0,19,Medium,Yes
+76440,Single,1.0,4,Very High,Yes
+51310,Married,0.0,2,Low,No
+63060,Divorced,3.0,2,Very High,No
+47870,Married,0.0,10,High,No
+188800,Single,0.0,10,Very High,No
+23390,Married,4.0,16,Low,No
+135700,Divorced,5.0,1,Very High,No
+67120,Married,6.0,4,High,No
+54060,Single,0.0,15,High,No
+89380,Single,7.0,2,High,No
+24390,Divorced,3.0,8,High,No
+88370,Married,2.0,2,Very High,No
+53430,Divorced,1.0,7,Medium,No
+67280,Married,7.0,10,High,Yes
+66520,Divorced,7.0,5,Very High,Yes
+48500,Single,0.0,2,Medium,No
+28090,Married,4.0,12,High,No
+56890,Married,3.0,22,High,Yes
+20010,Divorced,9.0,17,Low,Yes
+29770,Married,4.0,2,High,No
+40250,Single,1.0,3,Very High,No
+37850,Single,5.0,7,High,Yes
+108540,Married,2.0,6,Very High,No
+120310,Single,3.0,1,Medium,No
+99360,Single,7.0,3,Very High,No
+25710,Single,7.0,15,High,No
+99910,Married,1.0,12,High,No
+61420,Single,4.0,1,Very High,No
+53900,Married,1.0,5,Low,No
+44040,Married,0.0,2,Medium,No
+59930,Divorced,0.0,2,High,Yes
+51300,Divorced,4.0,5,Very High,No
+20900,Divorced,4.0,16,High,No
+29090,Divorced,9.0,2,Very High,No
+34680,Single,1.0,2,Medium,Yes
+30680,Divorced,3.0,1,Low,No
+26700,Single,2.0,23,High,No
+26930,Divorced,5.0,9,High,No
+95260,Single,1.0,16,High,No
+52370,Single,1.0,26,Very High,No
+24260,Single,1.0,1,Very High,Yes
+41930,Single,4.0,8,Very High,No
+29110,Married,5.0,4,High,No
+20280,Divorced,1.0,7,Medium,No
+99800,Divorced,3.0,2,Low,No
+32980,Married,8.0,7,High,Yes
+29350,Married,0.0,22,Very High,No
+154270,Married,3.0,5,High,No
+39440,Married,6.0,1,Medium,No
+40110,Divorced,1.0,21,High,No
+34070,Married,1.0,1,Very High,No
+119940,Married,1.0,19,Medium,No
+12320,Married,1.0,7,Medium,No
+29600,Married,1.0,2,Medium,No
+190940,Married,1.0,2,High,No
+39190,Married,1.0,2,High,Yes
+68250,Married,1.0,9,Low,Yes
+102480,Married,1.0,6,Very High,No
+189470,Divorced,2.0,9,Low,Yes
+24960,Single,4.0,2,Very High,No
+64650,Divorced,4.0,1,Very High,No
+22060,Divorced,0.0,22,High,No
+20860,Married,4.0,9,High,No
+22930,Single,1.0,17,Medium,No
+26450,Married,1.0,28,Very High,No
+26830,Divorced,4.0,10,Very High,No
+20140,Single,3.0,2,Low,No
+34190,Divorced,3.0,4,High,No
+53760,Married,7.0,8,Low,No
+19510,Single,4.0,29,High,No
+23410,Divorced,1.0,13,High,No
+22930,Divorced,0.0,27,Low,Yes
+87260,Single,1.0,16,High,No
+40110,Married,4.0,2,Very High,No
+195450,Married,0.0,2,High,No
+30220,Married,1.0,1,Very High,No
+57720,Divorced,1.0,4,High,No
+22690,Single,7.0,24,Low,No
+53810,Married,1.0,1,Very High,No
+34410,Married,2.0,19,Low,Yes
+54540,Married,1.0,7,Very High,No
+98840,Married,1.0,4,High,No
+41570,Married,1.0,2,High,No
+134580,Single,1.0,10,Very High,No
+90690,Divorced,3.0,8,Very High,No
+59150,Divorced,2.0,8,Medium,No
+59930,Single,0.0,9,Very High,No
+61620,Single,1.0,1,High,Yes
+24060,Single,1.0,15,Low,Yes
+187400,Married,1.0,2,High,No
+76370,Married,2.0,2,Low,No
+100960,Married,0.0,11,Medium,No
+147560,Single,0.0,16,Very High,No
+64990,Divorced,1.0,2,Very High,No
+97240,Married,3.0,16,Medium,No
+21940,Divorced,1.0,4,Very High,No
+33880,Single,3.0,16,Very High,No
+54730,Married,1.0,5,High,No
+27030,Single,1.0,18,Medium,No
+25010,Single,9.0,17,High,Yes
+62200,Single,1.0,12,High,No
+30380,Single,1.0,2,Very High,No
+44240,Married,3.0,4,High,Yes
+43120,Single,0.0,9,Very High,No
+132450,Married,1.0,10,Low,No
+136640,Single,3.0,1,Very High,No
+50210,Single,2.0,2,Low,No
+51260,Married,5.0,3,Low,No
+28590,Married,3.0,7,High,No
+102390,Divorced,3.0,6,Very High,No
+53290,Single,8.0,8,Low,No
+43250,Divorced,1.0,29,Low,No
+72600,Married,1.0,3,High,No
+23220,Married,7.0,9,Medium,No
+20750,Single,7.0,2,Medium,Yes
+41520,Married,9.0,10,Low,No
+96190,Single,4.0,1,High,No
+135030,Single,2.0,8,High,No
+54410,Divorced,9.0,27,High,No
+52090,Divorced,7.0,8,Very High,No
+106730,Single,1.0,1,High,No
+50100,Divorced,6.0,10,High,Yes
+135490,Married,3.0,26,Very High,No
+49990,Single,3.0,2,High,No
+42210,Married,1.0,13,Low,No
+138720,Married,9.0,2,Medium,No
+20420,Married,7.0,2,Very High,No
+20730,Single,0.0,9,Very High,No
+29560,Single,8.0,10,Low,No
+29260,Divorced,1.0,20,Medium,No
+48090,Single,2.0,9,Very High,No
+51630,Divorced,2.0,5,Low,No
+188440,Married,1.0,4,Very High,No
+181720,Married,6.0,10,High,No
+57440,Divorced,3.0,20,Low,No
+28890,Married,1.0,21,Low,No
+28710,Single,1.0,1,Very High,Yes
+74840,Single,1.0,8,Very High,No
+60740,Single,0.0,2,High,No
+173280,Single,1.0,23,High,No
+27740,Single,4.0,4,High,Yes
+45050,Single,1.0,12,Very High,No
+74280,Married,5.0,7,Low,Yes
+116310,Single,1.0,7,Low,No
+97380,Married,0.0,1,Very High,No
+28350,Divorced,3.0,2,Very High,No
+169590,Married,4.0,10,High,No
+61460,Single,2.0,14,Very High,No
+49630,Divorced,9.0,18,Low,No
+195370,Married,0.0,13,Very High,No
+61720,Divorced,0.0,2,Low,No
+23680,Single,6.0,2,Low,No
+103120,Single,1.0,2,Low,No
+16750,Married,1.0,5,Very High,No
+25230,Married,3.0,20,High,No
+65670,Married,1.0,10,Medium,No
+47390,Married,5.0,10,Low,No
+92080,Divorced,1.0,9,Very High,No
+45590,Married,1.0,2,Low,Yes
+81890,Divorced,1.0,1,Medium,No
+29420,Married,8.0,29,High,No
+49410,Married,5.0,8,High,No
+106500,Married,1.0,2,Low,Yes
+59020,Married,0.0,3,High,No
+86390,Single,5.0,23,Low,Yes
+63470,Married,1.0,6,Very High,No
+42000,Married,0.0,6,Medium,No
+34520,Married,1.0,10,High,No
+43170,Single,7.0,24,Medium,Yes
+26320,Single,3.0,10,High,No
+46680,Married,9.0,15,Very High,No
+32040,Single,6.0,19,High,Yes
+27200,Married,4.0,2,Medium,No
+22380,Single,6.0,9,High,No
+14830,Single,5.0,7,Very High,No
+56050,Single,1.0,10,High,No
+72950,Married,1.0,20,Medium,No
+23060,Divorced,2.0,4,Low,No
+23480,Single,1.0,7,Very High,No
+89980,Married,1.0,7,Very High,Yes
+43190,Single,4.0,16,Very High,Yes
+61320,Married,6.0,25,Low,No
+33460,Divorced,1.0,2,Very High,No
+108550,Single,3.0,1,High,No
+22310,Married,1.0,1,Medium,No
+23230,Married,0.0,2,Very High,No
+20240,Married,1.0,22,High,Yes
+27130,Married,1.0,1,Very High,No
+94390,Married,2.0,16,High,No
+25660,Single,9.0,24,Medium,No
+199260,Single,7.0,17,Low,No
+24510,Divorced,1.0,8,Low,No
+94190,Single,1.0,6,Low,No
+86860,Married,1.0,10,Very High,No
+30380,Divorced,2.0,3,Very High,No
+30580,Divorced,9.0,4,Very High,No
+23250,Married,7.0,6,Very High,No
+20880,Divorced,4.0,1,Low,No
+30720,Married,5.0,10,High,No
+50060,Married,3.0,1,Very High,No
+42570,Divorced,4.0,24,High,No
+25000,Divorced,1.0,21,Very High,No
+11020,Married,6.0,2,Very High,No
+104530,Married,2.0,22,Very High,No
+22880,Single,5.0,13,Very High,No
+39290,Married,0.0,14,Low,No
+23110,Married,1.0,11,Low,No
+31400,Married,1.0,9,High,No
+44500,Divorced,0.0,21,Very High,No
+27560,Married,1.0,5,Low,No
+190330,Married,2.0,9,Low,No
+187220,Married,0.0,2,Very High,No
+95470,Married,1.0,12,Medium,No
+137340,Married,0.0,22,Medium,No
+199990,Married,2.0,18,Very High,No
+22790,Married,3.0,16,Very High,No
+59160,Divorced,6.0,3,High,Yes
+20890,Married,5.0,9,Very High,No
+167920,Married,3.0,1,Medium,No
+35640,Married,5.0,13,Very High,No
+44250,Single,6.0,1,Very High,No
+52650,Married,4.0,1,Very High,No
+65530,Married,0.0,15,Very High,No
+62610,Single,1.0,1,Medium,No
+42980,Divorced,1.0,17,Low,No
+68040,Married,8.0,1,Very High,No
+38150,Divorced,3.0,7,Medium,No
+27410,Single,1.0,9,Very High,Yes
+66730,Divorced,6.0,5,Very High,No
+76390,Married,1.0,26,Low,No
+23280,Single,1.0,24,Very High,No
+21530,Divorced,9.0,9,Very High,Yes
+48760,Divorced,4.0,7,Medium,No
+93960,Single,1.0,11,High,Yes
+104000,Single,1.0,1,Very High,Yes
+84740,Married,0.0,26,Very High,No
+99810,Single,1.0,2,Very High,No
+124900,Married,0.0,15,High,Yes
+26570,Divorced,4.0,23,Very High,Yes
+135910,Divorced,5.0,10,High,No
+66960,Married,7.0,10,Low,Yes
+20580,Single,1.0,1,High,No
+88650,Divorced,1.0,12,Medium,No
+59400,Single,7.0,11,High,No
+59140,Single,3.0,2,Low,No
+26220,Divorced,2.0,2,Medium,No
+121850,Married,3.0,1,High,No
+106090,Married,1.0,2,Very High,No
+43450,Married,4.0,25,Medium,No
+21770,Married,4.0,1,High,No
+27930,Married,1.0,1,High,No
+79180,Single,2.0,2,Very High,No
+87890,Married,1.0,6,Low,No
+23890,Married,6.0,18,Medium,No
+32120,Married,1.0,1,Medium,Yes
+192320,Divorced,2.0,1,Medium,No
+22670,Single,1.0,11,Low,No
+195170,Single,2.0,1,Low,No
+24360,Single,4.0,9,High,No
+160640,Single,1.0,15,Medium,Yes
+27070,Single,1.0,29,Low,Yes
+190680,Married,0.0,1,Very High,No
+39310,Divorced,8.0,1,Medium,No
+37300,Married,1.0,24,Low,No
+22320,Married,1.0,10,Very High,Yes
+44650,Single,0.0,1,Very High,No
+30720,Married,5.0,10,High,Yes
+33190,Married,1.0,8,Medium,No
+136750,Married,1.0,1,High,No
+59570,Single,4.0,9,High,Yes
+39200,Divorced,6.0,9,High,No
+64340,Divorced,5.0,3,High,No
+100480,Single,1.0,4,Very High,No
+109380,Divorced,6.0,1,Very High,No
+23400,Single,0.0,1,High,No
+65450,Single,4.0,2,Medium,Yes
+69310,Divorced,1.0,7,High,No
+48980,Divorced,4.0,28,Very High,No
+25930,Single,0.0,28,Low,Yes
+194360,Single,1.0,15,High,No
+27230,Single,6.0,3,Low,Yes
+34790,Single,3.0,2,Very High,No
+27940,Divorced,3.0,26,Very High,No
+52490,Divorced,9.0,10,Very High,No
+21760,Married,1.0,1,Medium,No
+168720,Divorced,2.0,11,High,No
+34850,Married,9.0,20,Medium,No
+66440,Married,1.0,2,Low,No
+55820,Single,1.0,18,Very High,No
+40000,Married,4.0,2,High,Yes
+134960,Married,3.0,1,High,No
+32100,Married,0.0,13,High,No
+190450,Divorced,6.0,28,High,No
+118490,Divorced,1.0,28,High,No
+20700,Divorced,1.0,24,Medium,Yes
+65020,Married,1.0,5,Low,No
+32300,Single,1.0,5,Very High,No
+136030,Married,8.0,23,High,No
+119960,Divorced,1.0,6,High,No
+56050,Married,0.0,4,Low,No
+63970,Single,1.0,2,Low,Yes
+191440,Single,0.0,8,Medium,Yes
+175840,Married,1.0,1,Very High,No
+49070,Married,1.0,8,Low,No
+45540,Single,2.0,2,High,No
+54150,Single,7.0,3,High,No
+47410,Single,6.0,2,High,No
+21150,Married,1.0,2,Very High,No
+31610,Married,0.0,3,Very High,No
+57450,Divorced,1.0,24,Very High,No
+33100,Married,4.0,27,Very High,No
+186650,Single,3.0,16,Very High,No
+44850,Married,5.0,15,Medium,Yes
+27890,Married,3.0,26,Medium,No
+58280,Divorced,1.0,19,High,No
+23260,Single,8.0,24,Very High,No
+135250,Single,8.0,21,Low,Yes
+14200,Married,1.0,5,Very High,Yes
+80200,Married,3.0,16,Very High,No
+36880,Married,0.0,2,High,No
+54820,Single,1.0,2,Low,Yes
+160150,Single,1.0,11,Low,No
+12000,Single,0.0,9,Very High,No
+56610,Married,3.0,7,Very High,No
+69290,Single,9.0,15,High,No
+96130,Divorced,0.0,6,Very High,No
+56740,Married,3.0,5,Very High,No
+54840,Single,1.0,16,Medium,No
+120610,Married,2.0,8,Medium,No
+56600,Divorced,7.0,7,High,Yes
+48210,Married,6.0,2,Low,Yes
+64100,Married,1.0,2,High,No
+52100,Married,1.0,10,Medium,No
+26950,Married,3.0,9,High,No
+118780,Married,2.0,5,High,No
+170680,Single,3.0,1,Medium,No
+24550,Married,1.0,2,Low,No
+139640,Divorced,1.0,3,High,No
+49410,Divorced,9.0,2,Very High,No
+24780,Married,6.0,5,High,No
+52280,Married,2.0,1,High,No
+44780,Single,0.0,4,Very High,No
+75470,Single,7.0,2,Low,No
+50550,Divorced,5.0,25,Very High,No
+34640,Single,1.0,8,Very High,Yes
+57750,Single,1.0,1,Low,Yes
+89430,Divorced,8.0,12,Low,No
+192720,Married,9.0,23,High,Yes
+52380,Single,1.0,19,Low,Yes
+46820,Married,1.0,5,Low,No
+183000,Married,0.0,8,Low,No
+52570,Married,1.0,1,High,No
+48690,Married,4.0,1,Very High,No
+99850,Married,1.0,11,High,No
+36970,Married,3.0,23,Medium,No
+74570,Single,3.0,1,High,No
+21190,Married,9.0,18,Low,Yes
+39830,Divorced,4.0,23,Very High,No
+61180,Single,0.0,7,Low,Yes
+62140,Single,1.0,1,High,Yes
+63470,Divorced,1.0,1,High,No
+115100,Single,0.0,29,Very High,No
+71430,Divorced,2.0,7,Very High,No
+82680,Married,1.0,25,Very High,Yes
+80950,Divorced,1.0,8,High,Yes
+29040,Single,4.0,8,Medium,Yes
+60320,Married,0.0,11,Low,No
+29760,Divorced,1.0,7,Medium,Yes
+159920,Single,3.0,1,High,Yes
+46490,Married,0.0,9,Medium,No
+26960,Married,3.0,1,Very High,No
+125040,Married,1.0,1,High,No
+59740,Single,7.0,1,Medium,No
+47360,Divorced,0.0,6,High,No
+52960,Divorced,4.0,8,Very High,No
+67810,Divorced,0.0,1,Medium,No
+21740,Married,3.0,6,High,No
+66530,Single,7.0,7,Medium,No
+96990,Married,8.0,5,Low,No
+67550,Divorced,7.0,1,Very High,Yes
+22130,Single,1.0,1,High,No
+26100,Single,1.0,1,Medium,No
+28510,Single,9.0,6,Medium,No
+34520,Single,2.0,1,Very High,No
+52580,Married,0.0,7,Very High,No
+93550,Married,0.0,2,Medium,No
+104960,Divorced,1.0,9,Very High,No
+63800,Married,6.0,2,Medium,No
+26570,Single,2.0,9,High,No
+27160,Divorced,0.0,1,Medium,No
+22010,Single,4.0,21,Very High,No
+65400,Married,1.0,4,Very High,No
+38160,Married,1.0,1,High,No
+52530,Divorced,1.0,6,High,No
+109650,Single,1.0,2,High,Yes
+49360,Single,0.0,3,Low,Yes
+25430,Married,3.0,4,Very High,No
+53040,Married,1.0,10,High,Yes
+166590,Divorced,7.0,23,Very High,No
+42600,Married,1.0,6,High,No
+24760,Married,1.0,1,High,No
+31020,Single,1.0,6,High,No
+22440,Married,1.0,6,Low,Yes
+75960,Single,9.0,2,High,No
+22850,Single,0.0,2,Low,Yes
+30340,Single,7.0,1,Low,No
+57150,Married,6.0,5,High,No
+25760,Single,8.0,7,Medium,No
+41970,Married,1.0,15,Very High,Yes
+143360,Married,1.0,1,Very High,No
+34480,Married,1.0,7,High,No
+194060,Married,3.0,26,Very High,No
+65380,Divorced,2.0,18,Medium,No
+43060,Single,0.0,6,Low,No
+22580,Married,1.0,3,Very High,No
+45220,Single,8.0,5,High,Yes
+44870,Divorced,1.0,11,Low,No
+44490,Divorced,4.0,3,Low,No
+22180,Married,1.0,26,Very High,No
+191970,Single,1.0,23,Low,No
+132120,Married,4.0,22,High,No
+65770,Married,1.0,14,Very High,No
+83920,Single,1.0,6,High,No
+45580,Single,1.0,6,High,Yes
+40310,Divorced,3.0,6,High,No
+79690,Married,0.0,23,Very High,No
+26540,Married,0.0,22,Very High,Yes
+165550,Married,8.0,2,Low,No
+45560,Single,2.0,20,High,No
+60910,Married,1.0,28,High,No
+195660,Divorced,6.0,12,Low,Yes
+48100,Divorced,8.0,20,Low,No
+45230,Married,5.0,9,Medium,No
+23510,Married,1.0,6,Low,No
+17020,Married,5.0,8,Medium,No
+180410,Married,3.0,4,Low,No
+28860,Married,1.0,28,Medium,Yes
+20970,Married,1.0,9,High,No
+119350,Divorced,1.0,9,High,No
+25460,Divorced,1.0,29,High,No
+25640,Single,1.0,3,Very High,No
+84120,Single,1.0,18,Very High,No
+141180,Divorced,2.0,9,Very High,No
+170460,Married,7.0,5,Low,No
+25640,Divorced,0.0,2,Very High,No
+102660,Married,1.0,10,Medium,No
+50700,Single,4.0,9,High,No
+178610,Divorced,2.0,3,Low,No
+42300,Married,0.0,26,Very High,No
+37800,Divorced,7.0,1,Medium,No
+27680,Single,0.0,6,Very High,No
+90710,Married,0.0,9,Medium,No
+106480,Married,3.0,8,Low,No
+136100,Married,4.0,1,Very High,No
+34080,Married,1.0,7,Low,No
+29830,Divorced,7.0,9,High,No
+76320,Married,1.0,4,Very High,No
+98240,Single,1.0,2,Medium,Yes
+99500,Divorced,1.0,19,Very High,No
+20930,Married,3.0,9,Very High,No
+99800,Married,1.0,21,Low,No
+38940,Single,1.0,24,Low,No
+40510,Single,5.0,3,Very High,No
+168350,Married,3.0,11,Very High,No
+62300,Married,2.0,14,High,No
+47170,Married,1.0,5,Medium,No
+132370,Single,5.0,1,Medium,No
+37550,Divorced,1.0,6,High,No
+65820,Divorced,1.0,17,Very High,No
+74060,Single,6.0,1,Very High,No
+48050,Divorced,3.0,3,Very High,No
+27410,Married,0.0,9,High,No
+42620,Married,7.0,4,Medium,No
+161840,Divorced,0.0,8,High,No
+115570,Single,1.0,2,Very High,No
+18780,Married,1.0,2,High,No
+109320,Single,1.0,1,Very High,Yes
+68110,Single,1.0,9,Very High,No
+43060,Single,2.0,12,Medium,Yes
+48590,Divorced,1.0,27,Medium,No
+53370,Single,1.0,20,High,Yes
+23400,Married,2.0,1,Medium,No
+74910,Single,0.0,13,Low,No
+105270,Divorced,4.0,14,Medium,No
+165950,Single,6.0,4,Very High,No
+88340,Divorced,4.0,14,Medium,No
+55770,Single,0.0,2,High,No
+47070,Divorced,1.0,3,Low,No
+24000,Married,4.0,1,Medium,No
+98240,Married,0.0,9,High,No
+64470,Married,6.0,23,Medium,No
+195020,Single,3.0,7,Very High,No
+27250,Single,9.0,2,Medium,No
+62720,Married,1.0,21,Very High,Yes
+21270,Married,1.0,2,Very High,No
+20960,Single,7.0,2,High,No
+28860,Divorced,3.0,29,High,Yes
+20330,Single,2.0,1,Low,No
+36220,Single,1.0,18,Medium,No
+42330,Married,1.0,10,Very High,No
+54600,Divorced,6.0,29,Medium,No
+21870,Divorced,1.0,27,High,No
+96020,Married,1.0,5,High,Yes
+28360,Single,0.0,18,Low,Yes
+40890,Married,0.0,9,Very High,No
+166270,Married,3.0,1,High,No
+26190,Single,6.0,4,Low,No
+56790,Married,0.0,1,Very High,No
+154020,Married,4.0,20,Low,No
+59850,Single,2.0,8,Medium,Yes
+25790,Single,9.0,3,Medium,Yes
+30410,Married,1.0,6,Low,No
+34470,Single,0.0,26,High,No
+195130,Divorced,1.0,1,High,No
+27730,Single,1.0,6,Medium,No
+71040,Single,1.0,3,Medium,Yes
+63220,Married,4.0,5,Low,Yes
+20830,Married,0.0,4,High,No
+83810,Married,4.0,11,High,No
+26910,Single,6.0,3,Medium,No
+42860,Divorced,9.0,1,High,No
+26590,Divorced,0.0,3,Very High,No
+94340,Single,1.0,4,Very High,No
+55610,Divorced,0.0,1,Low,No
+66460,Single,1.0,1,High,No
+77250,Divorced,1.0,18,Medium,No
+107250,Divorced,3.0,2,Low,No
+88470,Single,1.0,4,Low,No
+20450,Married,3.0,6,Very High,No
+10090,Married,7.0,1,Low,Yes
+33480,Married,3.0,14,Medium,No
+12810,Married,2.0,16,Low,No
+28190,Single,1.0,2,Very High,No
+40280,Single,3.0,4,Medium,No
+27200,Single,1.0,1,Very High,No
+81200,Married,0.0,1,Very High,No
+46470,Single,3.0,26,Very High,No
+46800,Single,6.0,19,High,Yes
+32210,Married,4.0,24,Medium,No
+86210,Divorced,1.0,1,High,No
+45770,Divorced,5.0,3,High,No
+45530,Married,4.0,5,High,No
+53960,Single,7.0,2,Very High,Yes
+67960,Married,0.0,1,High,Yes
+76250,Divorced,1.0,7,High,No
+74120,Single,1.0,10,Very High,No
+111590,Married,1.0,2,Low,No
+49600,Married,1.0,15,High,Yes
+104750,Married,3.0,17,Very High,No
+148140,Married,2.0,20,Medium,No
+191410,Divorced,3.0,1,Very High,No
+54050,Married,7.0,2,High,No
+87930,Married,6.0,2,Very High,No
+191890,Married,0.0,1,Medium,No
+38750,Married,3.0,29,High,No
+22160,Married,2.0,7,High,No
+117130,Married,2.0,2,High,No
+78610,Single,1.0,2,High,No
+37080,Married,1.0,2,Very High,No
+137700,Single,1.0,2,High,Yes
+53040,Single,0.0,2,Very High,No
+26420,Married,0.0,23,Low,No
+27590,Married,9.0,5,Low,No
+68040,Single,4.0,20,High,No
+61420,Single,2.0,6,Very High,No
+25000,Married,4.0,1,Very High,No
+63890,Single,0.0,29,Low,No
+111030,Single,1.0,9,Low,No
+23420,Single,3.0,6,Low,Yes
+68110,Single,0.0,3,Very High,Yes
+22970,Single,6.0,1,Very High,No
+24500,Married,3.0,22,Low,No
+50930,Divorced,2.0,7,Very High,No
+53090,Single,3.0,1,Medium,No
+30570,Single,1.0,4,High,Yes
+51210,Divorced,7.0,3,Low,No
+26860,Divorced,5.0,2,Low,No
+61800,Single,1.0,20,Medium,Yes
+66320,Married,0.0,11,Low,No
+35050,Single,1.0,1,Very High,No
+63970,Married,4.0,24,Low,No
+62740,Married,7.0,23,Very High,No
+198590,Married,3.0,16,Low,Yes
+75870,Single,0.0,8,High,No
+42580,Married,2.0,10,Low,No
+43640,Married,3.0,3,High,No
+43350,Married,1.0,5,High,No
+53260,Married,4.0,4,Very High,No
+32800,Married,5.0,9,Medium,No
+54850,Married,2.0,26,High,No
+43420,Divorced,3.0,3,High,No
+27820,Divorced,1.0,16,Very High,No
+59800,Divorced,4.0,18,Very High,Yes
+43810,Single,2.0,2,Low,Yes
+25720,Single,1.0,2,Medium,Yes
+38330,Divorced,2.0,10,Low,No
+42440,Single,9.0,16,Medium,No
+65000,Married,6.0,7,Very High,Yes
+184300,Married,4.0,1,Very High,No
+16010,Divorced,4.0,24,Low,No
+26940,Married,1.0,7,High,Yes
+31490,Divorced,2.0,25,Medium,No
+176390,Single,0.0,1,Low,No
+23190,Single,3.0,5,High,No
+116910,Single,4.0,2,Medium,No
+53240,Married,2.0,7,High,No
+167520,Divorced,2.0,2,High,No
+52280,Single,1.0,5,Medium,No
+27000,Married,0.0,10,Low,No
+192460,Single,3.0,10,Low,No
+25060,Married,8.0,1,High,No
+60620,Single,1.0,8,Very High,No
+43820,Married,7.0,5,High,No
+21430,Divorced,1.0,8,High,No
+61620,Married,0.0,2,High,No
+50940,Divorced,3.0,7,Medium,No
+68770,Divorced,7.0,2,Low,No
+22740,Married,3.0,2,High,Yes
+44340,Single,5.0,28,Medium,Yes
+62880,Single,0.0,7,Medium,Yes
+25530,Married,1.0,7,High,No
+76540,Single,2.0,3,Low,Yes
+51600,Married,1.0,10,Medium,No
+171590,Single,5.0,5,High,No
+128080,Divorced,1.0,10,High,No
+102210,Divorced,0.0,1,High,No
+47790,Married,0.0,20,High,No
+37370,Married,8.0,7,Medium,No
+23660,Married,3.0,8,High,No
+17060,Single,7.0,1,Low,Yes
+163070,Divorced,1.0,8,High,No
+59330,Single,0.0,9,Low,No
+34240,Married,4.0,5,Low,No
+40370,Married,0.0,8,Medium,No
+25590,Married,1.0,5,Medium,No
+62010,Single,2.0,15,High,No
+44030,Single,2.0,7,Very High,No
+37610,Divorced,3.0,10,Very High,No
+109340,Single,6.0,5,Low,Yes
+107610,Married,3.0,26,Low,No
+51750,Single,4.0,6,Medium,No
+138260,Married,8.0,4,Medium,No
+63340,Single,1.0,23,Medium,No
+49360,Single,0.0,2,High,No
+47750,Single,3.0,2,Low,Yes
+28180,Married,1.0,2,High,No
+25150,Single,1.0,29,High,Yes
+23420,Single,1.0,6,Very High,No
+41940,Married,0.0,25,High,No
+106850,Married,4.0,1,Medium,No
+20220,Married,1.0,2,Very High,No
+23140,Married,3.0,1,Low,No
+42560,Single,1.0,1,Medium,No
+35800,Married,4.0,3,Very High,No
+31620,Married,2.0,1,Very High,No
+65240,Married,0.0,10,Low,No
+28990,Married,1.0,9,High,No
+52310,Single,1.0,5,Very High,No
+23560,Divorced,0.0,10,Low,No
+118360,Divorced,1.0,4,Medium,No
+109030,Married,0.0,10,High,No
+29730,Married,3.0,22,Medium,No
+142750,Single,3.0,9,Very High,No
+55620,Divorced,8.0,12,High,No
+45370,Married,6.0,23,High,No
+76420,Married,2.0,9,Low,No
+179240,Married,1.0,1,Low,Yes
+52040,Married,3.0,9,High,No
+22770,Single,1.0,7,Low,No
+27950,Married,3.0,14,Medium,No
+25320,Divorced,1.0,2,Low,Yes
+25590,Married,0.0,19,Very High,Yes
+49080,Married,4.0,2,Medium,Yes
+23800,Married,4.0,10,Low,No
+47650,Married,8.0,2,Low,No
+20440,Single,1.0,3,Very High,No
+26930,Married,1.0,11,Very High,No
+65860,Married,9.0,2,Very High,No
+32940,Married,1.0,4,Very High,No
+41710,Married,0.0,14,Medium,No
+27780,Single,2.0,2,Medium,No
+23770,Single,6.0,1,High,No
+24040,Single,1.0,10,Low,No
+23180,Single,3.0,12,High,No
+20080,Married,2.0,2,High,No
+62440,Divorced,1.0,5,Very High,No
+27990,Married,4.0,4,High,No
+105520,Married,2.0,7,High,No
+23290,Married,3.0,21,Low,No
+40140,Single,8.0,8,Very High,No
+74030,Married,1.0,4,High,No
+22590,Married,1.0,25,High,No
+69320,Married,1.0,1,Low,No
+46780,Divorced,5.0,1,Medium,No
+135820,Married,1.0,6,Very High,No
+23320,Single,1.0,12,Low,No
+24130,Married,1.0,1,Medium,Yes
+97050,Married,1.0,17,High,No
+42940,Married,2.0,3,High,No
+47210,Married,3.0,3,Very High,No
+25190,Divorced,0.0,10,Very High,No
+21210,Married,1.0,4,Medium,No
+29730,Single,1.0,29,Low,No
+58550,Married,1.0,2,Low,No
+36170,Single,7.0,7,Low,No
+67250,Married,9.0,18,High,No
+103250,Divorced,1.0,28,Very High,No
+69490,Married,1.0,1,Low,No
+106090,Married,2.0,6,Low,No
+44470,Divorced,1.0,2,Low,No
+21570,Married,1.0,2,Low,No
+46010,Divorced,0.0,23,Low,No
+170990,Single,1.0,3,Very High,No
+148520,Married,3.0,25,High,No
+56660,Married,1.0,22,High,No
+78230,Married,1.0,29,High,No
+78800,Married,3.0,29,High,No
+131940,Single,0.0,2,High,No
+50670,Divorced,1.0,28,Very High,No
+50790,Married,3.0,2,High,No
+23210,Married,9.0,2,Low,Yes
+174440,Married,1.0,22,Medium,No
+24040,Single,6.0,8,Very High,No
+34520,Married,4.0,2,Very High,No
+22700,Married,2.0,10,Very High,No
+54880,Single,1.0,15,Very High,No
+194190,Married,7.0,10,High,No
+28110,Single,2.0,7,Very High,No
+36330,Single,3.0,16,Low,Yes
+41630,Single,9.0,20,High,No
+21320,Married,4.0,23,Low,No
+139730,Divorced,1.0,5,High,No
+26840,Married,4.0,10,Medium,No
+108450,Married,3.0,4,Medium,No
+43770,Divorced,5.0,2,Low,No
+37430,Single,1.0,18,High,No
+41480,Divorced,1.0,10,Medium,No
+10510,Single,2.0,1,Medium,No
+107390,Married,2.0,6,High,No
+114160,Divorced,6.0,2,Low,No
+26000,Married,3.0,24,High,No
+24220,Married,1.0,2,High,No
+54720,Single,3.0,17,Very High,Yes
+24510,Married,7.0,19,Very High,No
+42400,Divorced,1.0,1,Medium,No
+109990,Divorced,1.0,7,Very High,No
+50030,Divorced,0.0,5,Medium,No
+127420,Married,1.0,28,Very High,No
+42270,Divorced,4.0,2,Low,No
+39170,Single,1.0,29,Medium,No
+183030,Divorced,6.0,1,Medium,No
+23800,Single,4.0,21,High,No
+137260,Single,3.0,24,High,No
+47770,Single,1.0,1,Low,No
+63850,Divorced,1.0,18,Very High,No
+199730,Married,6.0,2,High,No
+68610,Divorced,4.0,9,Very High,No
+49690,Single,1.0,6,High,Yes
+198450,Married,7.0,11,High,No
+133200,Married,3.0,24,Very High,No
+63470,Married,2.0,10,High,Yes
+27430,Single,1.0,1,Medium,Yes
+108800,Single,1.0,18,Very High,No
+23420,Divorced,5.0,23,Medium,No
+176500,Married,1.0,28,Very High,No
+40250,Divorced,3.0,17,Very High,No
+97250,Married,1.0,3,Medium,No
+119040,Divorced,1.0,13,Very High,No
+21770,Married,1.0,7,Very High,No
+75250,Divorced,1.0,12,Very High,Yes
+48340,Married,1.0,1,Very High,No
+20420,Single,0.0,13,Very High,No
+22200,Married,1.0,25,Very High,No
+10520,Married,1.0,6,High,No
+28210,Single,1.0,6,High,No
+192370,Married,9.0,2,High,No
+41070,Single,3.0,1,Very High,No
+83960,Married,3.0,2,High,No
+20070,Married,1.0,6,High,Yes
+196270,Married,7.0,1,High,Yes
+106860,Married,1.0,9,High,No
+29420,Single,1.0,1,Medium,No
+88580,Married,6.0,1,High,No
+167560,Married,1.0,14,High,No
+107980,Married,6.0,2,Medium,No
+23230,Married,2.0,22,Low,No
+14160,Divorced,1.0,3,Low,No
+46150,Single,6.0,6,Medium,No
+24610,Married,2.0,8,High,No
+87220,Married,1.0,9,Very High,No
+39550,Married,7.0,3,Medium,No
+99570,Divorced,4.0,1,Very High,No
+33760,Divorced,5.0,1,Low,Yes
+88230,Single,6.0,26,Medium,Yes
+103220,Single,1.0,6,Medium,No
+46210,Single,2.0,3,Very High,No
+109760,Married,1.0,3,Very High,No
+36600,Married,3.0,6,High,No
+104820,Single,1.0,6,Medium,No
+71190,Married,4.0,19,High,No
+95820,Single,0.0,9,Low,No
+45080,Married,0.0,3,Very High,No
+22070,Divorced,6.0,10,Very High,Yes
+77560,Married,1.0,3,High,No
+66940,Single,1.0,3,Very High,No
+36910,Single,1.0,4,Medium,Yes
+23770,Single,8.0,8,High,No
+23130,Divorced,2.0,7,Low,No
+176650,Married,0.0,1,Very High,No
+25960,Single,8.0,2,Medium,No
+47280,Single,3.0,3,Very High,No
+43020,Single,2.0,10,Low,Yes
+29790,Married,4.0,28,Medium,No
+168850,Married,2.0,9,High,Yes
+55930,Divorced,1.0,3,Low,No
+104450,Married,3.0,2,High,No
+87400,Single,2.0,10,Medium,No
+25140,Married,3.0,8,Very High,No
+76550,Married,9.0,1,High,Yes
+174650,Divorced,8.0,1,Medium,No
+108200,Divorced,5.0,14,Medium,No
+196260,Divorced,1.0,7,High,No
+20700,Married,4.0,10,High,No
+67820,Single,0.0,16,Very High,No
+77790,Single,5.0,10,Very High,No
+27910,Single,1.0,1,Medium,Yes
+32010,Married,1.0,8,High,No
+49680,Married,1.0,1,Low,Yes
+131200,Married,1.0,8,Very High,No
+40330,Married,2.0,1,High,No
+32910,Married,1.0,24,Medium,No
+42720,Divorced,7.0,3,Very High,No
+50560,Married,7.0,27,Low,No
+28440,Divorced,1.0,10,Medium,Yes
+27030,Divorced,2.0,19,Medium,No
+19040,Single,1.0,15,Very High,Yes
+82240,Married,6.0,8,Low,No
+47660,Married,1.0,9,Very High,No
+26100,Single,7.0,3,High,No
+57310,Single,8.0,9,Medium,No
+25390,Married,4.0,2,Low,No
+57140,Married,5.0,7,Low,No
+43230,Divorced,2.0,10,Very High,No
+73360,Divorced,5.0,6,Medium,No
+134990,Married,4.0,2,Low,Yes
+137580,Single,1.0,24,Low,Yes
+51550,Divorced,2.0,2,Very High,No
+22580,Single,4.0,8,High,No
+35970,Single,3.0,3,Medium,No
+25150,Divorced,0.0,1,High,No
+44200,Single,9.0,26,High,No
+65780,Married,0.0,2,Medium,Yes
+44220,Married,4.0,10,Medium,Yes
+102740,Divorced,4.0,27,Very High,No
+53430,Married,1.0,2,High,No
+23760,Divorced,4.0,2,Medium,No
+53460,Married,0.0,8,High,No
+28270,Divorced,8.0,19,Medium,No
+199430,Divorced,2.0,1,Low,No
+31310,Married,4.0,27,Very High,No
+25520,Married,2.0,8,Low,No
+44770,Married,1.0,1,Low,No
+64740,Married,2.0,19,Very High,No
+30330,Single,1.0,8,Very High,No
+29360,Married,2.0,10,High,No
+186060,Single,1.0,2,High,No
+21680,Married,0.0,2,Low,Yes
+28530,Divorced,4.0,8,Low,Yes
+170480,Married,4.0,1,High,No
+22900,Married,4.0,2,Medium,No
+36000,Married,1.0,8,Very High,No
+21070,Single,0.0,8,Very High,No
+41150,Married,1.0,6,Very High,No
+43270,Single,8.0,9,Very High,No
+178560,Married,3.0,11,High,No
+31960,Single,4.0,2,High,No
+190810,Divorced,3.0,1,Very High,No
+89660,Divorced,1.0,7,Very High,No
+22100,Divorced,8.0,16,High,No
+45390,Single,4.0,2,High,No
+27410,Single,7.0,1,Medium,Yes
+34910,Divorced,2.0,23,Low,No
+45410,Married,1.0,2,High,No
+26780,Married,1.0,1,Medium,No
+73790,Married,7.0,1,High,No
+62720,Married,4.0,2,Medium,No
+52200,Single,1.0,13,Very High,Yes
+27430,Married,5.0,4,Medium,Yes
+49980,Married,0.0,16,Low,No
+102520,Divorced,8.0,2,Very High,No
+27810,Married,8.0,2,Very High,No
+68520,Married,1.0,29,Medium,No
+49500,Single,1.0,12,Very High,Yes
+35790,Single,1.0,16,Medium,Yes
+131910,Married,1.0,11,High,No
+103770,Divorced,1.0,2,High,No
+22350,Married,2.0,14,Very High,No
+105020,Single,3.0,5,Low,No
+20110,Married,5.0,7,Low,No
+18590,Married,0.0,2,Medium,No
+37600,Married,0.0,3,Very High,No
+177790,Single,1.0,5,Very High,No
+68330,Divorced,2.0,3,Low,No
+68120,Married,1.0,26,High,No
+51710,Single,0.0,4,High,No
+197400,Divorced,3.0,2,Very High,No
+187110,Married,2.0,1,Low,No
+36920,Married,1.0,27,Low,Yes
+25590,Single,1.0,1,Very High,Yes
+25170,Married,2.0,13,Medium,No
+182650,Married,9.0,7,Low,No
+161240,Divorced,2.0,9,Very High,No
+25850,Married,3.0,8,Very High,No
+182130,Divorced,8.0,25,High,No
+83800,Married,0.0,16,Very High,No
+29940,Single,4.0,8,High,No
+12230,Single,1.0,1,High,No
+11180,Married,1.0,8,Very High,No
+28750,Single,1.0,2,Low,Yes
+188240,Married,6.0,8,High,No
+135770,Married,1.0,3,Medium,No
+26250,Married,1.0,9,Very High,No
+187890,Single,3.0,25,High,Yes
+45380,Married,8.0,1,Medium,No
+105120,Married,1.0,1,Low,No
+44440,Divorced,1.0,4,Medium,No
+21540,Married,4.0,5,Very High,No
+191900,Single,3.0,9,High,Yes
+44900,Divorced,2.0,3,Very High,No
+35060,Married,3.0,11,Very High,No
+23720,Divorced,3.0,1,Very High,No
+102310,Married,1.0,8,Medium,Yes
+54100,Married,0.0,25,Low,No
+79780,Single,1.0,21,High,No
+38670,Divorced,1.0,23,Low,No
+28380,Married,1.0,1,Medium,No
+46950,Single,1.0,2,Very High,No
+33390,Divorced,1.0,19,High,No
+20800,Single,0.0,2,Low,No
+20960,Married,0.0,2,Low,No
+62090,Divorced,5.0,3,Very High,No
+180610,Married,1.0,25,Low,No
+171230,Divorced,5.0,7,Very High,Yes
+23720,Single,4.0,9,Low,No
+48830,Married,1.0,5,Very High,No
+39040,Single,1.0,2,Very High,No
+46270,Single,8.0,8,Very High,No
+70940,Married,1.0,2,Very High,Yes
+34230,Single,6.0,18,Low,Yes
+66740,Married,3.0,14,High,No
+168800,Divorced,1.0,2,High,No
+90940,Married,1.0,3,High,No
+84460,Married,0.0,2,Medium,No
+119160,Married,4.0,9,Medium,No
+45340,Divorced,1.0,6,Very High,No
+98520,Single,0.0,4,Low,No
+61510,Single,1.0,10,High,No
+23020,Married,4.0,14,High,No
+23620,Single,6.0,1,Low,No
+178610,Single,1.0,5,High,No
+191870,Single,1.0,7,Very High,No
+197170,Married,1.0,21,High,No
+35440,Married,3.0,8,Medium,No
+85000,Married,4.0,20,Medium,No
+46610,Married,1.0,20,Medium,No
+41030,Divorced,6.0,7,High,No
+42490,Single,2.0,1,High,No
+140260,Divorced,1.0,1,High,No
+68930,Married,0.0,19,Medium,No
+61250,Married,0.0,10,High,No
+36690,Married,2.0,1,High,No
+100080,Divorced,6.0,6,Low,No
+23870,Married,3.0,2,Very High,No
+46390,Married,0.0,21,Medium,No
+78980,Married,7.0,4,High,No
+25340,Single,0.0,12,High,No
+131420,Single,1.0,9,High,No
+16110,Married,0.0,3,Very High,No
+53630,Single,1.0,3,Medium,No
+50710,Married,8.0,1,Very High,No
+136950,Married,0.0,1,Medium,No
+134020,Single,7.0,4,Very High,No
+20290,Married,3.0,20,High,No
+63770,Married,1.0,18,Very High,No
+54290,Married,1.0,1,Very High,No
+27850,Divorced,0.0,2,High,No
+46140,Divorced,2.0,2,Very High,No
+26100,Single,6.0,8,Very High,No
+66870,Single,1.0,10,Low,No
+47240,Single,2.0,3,Very High,No
+61790,Married,1.0,2,Low,Yes
+61200,Married,0.0,24,Very High,No
+105960,Divorced,7.0,16,Medium,No
+54670,Divorced,1.0,8,High,No
+29960,Married,9.0,9,Very High,Yes
+99980,Married,5.0,17,High,No
+40780,Married,8.0,10,High,Yes
+109200,Married,0.0,13,Medium,No
+62320,Married,1.0,1,High,No
+132470,Divorced,1.0,1,Very High,No
+40810,Divorced,2.0,1,Medium,No
+57690,Single,1.0,9,Low,No
+23940,Single,1.0,16,Very High,No
+39040,Married,1.0,23,Very High,No
+167990,Divorced,7.0,4,High,Yes
+29500,Married,4.0,22,Very High,No
+36290,Single,8.0,24,High,No
+93620,Single,2.0,10,High,No
+32290,Married,1.0,7,High,No
+35780,Married,2.0,17,High,No
+79880,Married,1.0,14,Very High,No
+42840,Married,4.0,1,Medium,No
+75530,Single,1.0,5,Low,No
+173280,Divorced,4.0,17,Low,Yes
+197010,Married,0.0,25,Very High,No
+147320,Single,0.0,8,Low,No
+92780,Single,0.0,11,High,No
+13590,Married,4.0,5,Very High,No
+47790,Married,4.0,2,Low,No
+164220,Married,1.0,8,Medium,No
+29960,Married,2.0,6,Medium,No
+12610,Married,2.0,4,High,No
+20990,Single,8.0,7,Very High,Yes
+58100,Married,1.0,1,Medium,No
+56470,Single,6.0,2,High,Yes
+34200,Married,1.0,10,High,No
+44000,Married,9.0,5,Medium,No
+35000,Single,0.0,9,Very High,No
+20660,Married,4.0,2,Low,No
+171690,Divorced,1.0,11,High,No
+41620,Single,0.0,18,High,No
+92040,Married,6.0,7,High,No
+32940,Married,0.0,3,Medium,No
+21270,Single,0.0,29,High,No
+39750,Divorced,1.0,2,High,No
+107930,Divorced,0.0,28,Very High,No
+36460,Divorced,1.0,16,Low,No
+74460,Divorced,0.0,22,Medium,No
+108510,Divorced,1.0,8,Very High,No
+21090,Married,2.0,11,Very High,No
+37220,Single,5.0,29,Very High,No
+93800,Divorced,0.0,1,High,No
+54860,Single,7.0,1,Low,Yes
+27420,Single,0.0,24,Medium,No
+137570,Single,1.0,2,Very High,No
+84630,Single,2.0,15,Low,Yes
+165980,Single,1.0,10,Low,Yes
+23450,Married,3.0,3,Very High,No
+34200,Single,3.0,2,Low,No
+43730,Single,4.0,3,Very High,No
+47590,Married,2.0,26,Very High,No
+53010,Single,1.0,1,High,No
+36730,Married,3.0,1,Very High,Yes
+47680,Married,2.0,2,Very High,Yes
+12740,Divorced,1.0,9,High,No
+49000,Married,1.0,12,High,Yes
+104660,Married,1.0,2,Very High,No
+170070,Married,9.0,25,Low,No
+29090,Married,2.0,9,Low,No
+57650,Divorced,1.0,10,Very High,No
+45990,Divorced,1.0,8,Low,No
+24040,Single,1.0,4,High,Yes
+31720,Single,1.0,24,High,No
+20330,Single,1.0,1,Very High,No
+102090,Married,1.0,20,High,Yes
+86200,Single,0.0,7,High,No
+20640,Married,4.0,17,Medium,No
+40350,Single,4.0,20,Very High,No
+38380,Married,1.0,8,Very High,No
+45910,Single,9.0,2,High,Yes
+25610,Single,1.0,10,High,Yes
+15630,Divorced,5.0,1,Low,No
+48980,Married,2.0,5,Low,No
+31800,Single,1.0,29,Very High,No
+65490,Married,1.0,15,Low,No
+63880,Married,3.0,3,Low,No
+112440,Divorced,3.0,10,Very High,No
+160320,Divorced,1.0,4,High,No
+23620,Married,1.0,21,Very High,No
+163280,Single,1.0,25,Very High,No
+83760,Divorced,5.0,2,High,No
+166060,Single,7.0,1,Low,No
+86060,Divorced,1.0,1,High,No
+22720,Divorced,2.0,7,High,No
+20180,Single,1.0,3,Medium,No
+70830,Divorced,2.0,1,Low,No
+40840,Married,4.0,9,Low,No
+144110,Married,0.0,7,High,Yes
+23080,Single,7.0,10,High,No
+48410,Married,0.0,28,Medium,No
+42850,Single,1.0,3,Medium,No
+97150,Married,1.0,3,Medium,No
+43200,Married,3.0,2,Very High,No
+21320,Single,1.0,27,Very High,No
+101240,Single,0.0,2,Low,No
+54730,Married,4.0,14,Low,No
+52070,Single,4.0,1,High,No
+164370,Divorced,8.0,9,Medium,No
+22960,Married,1.0,18,Very High,No
+40690,Single,1.0,20,High,No
+74410,Married,3.0,2,Very High,No
+24300,Divorced,7.0,11,Very High,No
+58780,Married,1.0,8,Medium,No
+26440,Single,4.0,2,Very High,No
+64390,Divorced,3.0,10,Low,No
+24510,Married,3.0,29,Very High,No
+63920,Married,1.0,8,Very High,No
+97140,Single,1.0,1,Very High,Yes
+60770,Married,1.0,6,Medium,No
+24500,Single,0.0,8,Very High,No
+92500,Divorced,1.0,9,Medium,No
+20740,Married,2.0,12,Low,No
+101690,Single,1.0,15,High,No
+48550,Married,9.0,25,High,No
+40870,Married,0.0,6,High,No
+23670,Married,1.0,9,High,No
+29720,Single,0.0,8,High,No
+195860,Married,4.0,23,Medium,No
+54840,Divorced,4.0,9,Low,Yes
+20610,Single,1.0,12,Low,No
+99240,Single,1.0,4,Very High,Yes
+41980,Single,1.0,1,High,No
+68150,Divorced,5.0,24,Very High,No
+47230,Married,9.0,12,Very High,No
+61420,Married,3.0,3,Medium,No
+82370,Single,1.0,10,High,Yes
+88530,Married,1.0,26,Very High,No
+193310,Single,1.0,2,Very High,No
+20730,Single,3.0,1,Low,No
+55620,Single,1.0,4,High,Yes
+196130,Single,2.0,9,Very High,No
+34070,Married,0.0,2,High,No
+50630,Divorced,6.0,4,Medium,No
+46390,Single,2.0,6,Very High,No
+48760,Single,2.0,9,Low,No
+26900,Married,0.0,7,Very High,No
+175670,Divorced,5.0,1,Very High,No
+24080,Married,1.0,3,Very High,No
+28140,Divorced,1.0,10,High,No
+112450,Married,0.0,7,Medium,No
+33120,Married,9.0,15,Medium,Yes
+190490,Single,7.0,3,High,No
+21410,Married,4.0,2,High,Yes
+57690,Married,1.0,17,Medium,No
+43850,Married,1.0,2,Very High,Yes
+53320,Single,1.0,5,High,Yes
+46630,Married,0.0,29,Very High,No
+47240,Married,1.0,2,Low,No
+32110,Single,4.0,2,High,No
+53770,Single,4.0,19,Very High,No
+40660,Married,3.0,15,High,Yes
+52080,Divorced,3.0,17,High,No
+48770,Married,1.0,17,High,No
+31170,Divorced,6.0,25,Medium,No
+15690,Single,2.0,6,Very High,Yes
+196580,Married,4.0,7,High,No
+30690,Married,2.0,29,High,No
+104350,Married,0.0,21,Very High,No
+41480,Single,7.0,2,Low,Yes
+57680,Single,5.0,2,Very High,No
+50420,Single,3.0,7,High,No
+57700,Single,1.0,13,High,No
+77560,Divorced,0.0,2,Very High,No
+103060,Divorced,5.0,1,Low,No
+39360,Single,0.0,9,Very High,No
+79450,Divorced,4.0,10,Low,No
+57430,Married,2.0,10,Low,No
+152020,Single,1.0,1,Medium,No
+54400,Divorced,1.0,26,Medium,No
+37600,Married,1.0,8,Medium,No
+35170,Married,2.0,14,High,No
+25800,Divorced,8.0,1,Medium,No
+21660,Single,1.0,2,Very High,No
+58690,Married,1.0,10,High,No
+80080,Married,2.0,1,High,No
+52060,Married,4.0,3,Medium,No
+52950,Married,7.0,11,Very High,No
+164130,Married,6.0,24,High,No
+132690,Married,1.0,3,Very High,No
+27830,Divorced,6.0,3,Medium,No
+54330,Married,1.0,4,Very High,No
+20130,Divorced,3.0,3,Very High,No
+139660,Divorced,1.0,2,High,No
+43740,Single,3.0,4,Medium,No
+68420,Divorced,4.0,7,High,No
+174260,Married,2.0,1,Very High,No
+176030,Single,4.0,1,Very High,No
+45810,Single,3.0,20,High,No
+47350,Married,0.0,5,Medium,No
+41870,Single,0.0,10,Low,Yes
+55050,Single,4.0,25,Medium,No
+54700,Divorced,1.0,1,Low,No
+54760,Divorced,4.0,24,Low,No
+25870,Divorced,4.0,4,Low,No
+24400,Single,0.0,2,Very High,No
+159720,Single,1.0,8,Very High,Yes
+153790,Divorced,1.0,10,Low,No
+70820,Single,1.0,4,Very High,No
+27280,Married,8.0,2,Very High,No
+53680,Single,2.0,9,Medium,No
+53470,Single,1.0,18,Medium,Yes
+31950,Married,2.0,19,High,No
+39890,Divorced,1.0,1,Low,No
+33060,Married,1.0,4,Medium,No
+70050,Married,1.0,11,High,No
+26550,Single,8.0,6,Medium,No
+13930,Married,1.0,7,High,No
+25700,Single,3.0,4,Medium,No
+35370,Married,0.0,2,High,No
+39860,Single,1.0,15,Medium,No
+108830,Married,3.0,2,High,Yes
+95250,Married,9.0,9,Very High,No
+29290,Married,1.0,7,Low,No
+22750,Single,5.0,1,Medium,No
+78790,Divorced,2.0,1,High,No
+49300,Married,9.0,8,High,No
+78470,Married,3.0,25,Very High,No
+44010,Married,5.0,13,Low,No
+92410,Divorced,1.0,23,Very High,No
+29740,Divorced,1.0,7,High,No
+45020,Married,8.0,23,Very High,No
+107480,Married,7.0,6,Low,Yes
+15550,Married,1.0,10,Very High,Yes
+129360,Divorced,1.0,1,Medium,No
+23050,Single,1.0,1,Very High,No
+167040,Married,9.0,28,Very High,No
+34330,Divorced,7.0,25,Low,No
+34770,Married,1.0,5,Very High,Yes
+64300,Single,1.0,17,High,No
+65160,Single,1.0,18,High,No
+39070,Married,5.0,2,Medium,No
+55620,Single,5.0,10,Low,Yes
+68830,Single,3.0,1,Very High,No
+49780,Single,0.0,2,High,Yes
+103680,Single,6.0,2,Very High,No
+61340,Married,2.0,8,Low,No
+67350,Single,8.0,16,Medium,No
+32950,Married,6.0,9,Medium,No
+52380,Divorced,1.0,2,Very High,No
+64720,Divorced,0.0,1,High,No
+96100,Married,0.0,4,High,No
+198330,Married,3.0,5,Very High,No
+97560,Divorced,4.0,2,Very High,No
+49680,Married,1.0,15,Very High,No
+21450,Single,1.0,19,High,No
+21800,Single,1.0,7,Very High,Yes
+83460,Single,7.0,1,Very High,No
+34450,Married,1.0,7,Very High,No
+27600,Married,8.0,4,High,No
+62940,Divorced,3.0,11,Very High,No
+71400,Married,5.0,11,Very High,Yes
+29320,Married,5.0,1,Very High,No
+51470,Married,7.0,1,Low,Yes
+45070,Single,1.0,2,High,No
+85640,Married,2.0,13,Medium,No
+24680,Single,0.0,23,High,Yes
+81610,Divorced,7.0,26,High,No
+21090,Married,0.0,2,Very High,No
+52940,Divorced,2.0,29,Low,No
+58110,Married,0.0,18,Very High,No
+24370,Divorced,9.0,7,High,No
+27660,Married,1.0,2,Very High,No
+190380,Married,6.0,26,Low,No
+30550,Married,2.0,22,Low,No
+22890,Married,4.0,21,High,No
+40010,Divorced,6.0,2,High,Yes
+129650,Single,0.0,22,High,No
+35390,Single,1.0,4,Very High,No
+60290,Single,3.0,5,Low,No
+26790,Divorced,2.0,2,Very High,No
+37020,Married,0.0,25,High,No
+23980,Divorced,0.0,18,Low,No
+54680,Divorced,0.0,28,High,No
+131160,Married,1.0,6,Very High,No
+41890,Single,0.0,10,Medium,Yes
+193280,Married,1.0,17,Medium,No
+83210,Married,3.0,2,Very High,No
+23420,Single,4.0,10,Low,No
+40710,Married,3.0,8,Medium,No
+58130,Single,2.0,11,High,Yes
+31430,Married,2.0,18,Medium,No
+20440,Married,0.0,1,Very High,No
+134640,Divorced,1.0,7,Low,No
+79910,Married,0.0,17,Very High,No
+33770,Married,0.0,28,Very High,No
+55380,Single,0.0,14,Low,No
+57620,Married,1.0,1,Medium,Yes
+25920,Married,1.0,1,Very High,No
+53460,Married,4.0,1,Very High,No
+42130,Single,1.0,3,High,No
+41270,Divorced,2.0,1,Very High,No
+24380,Divorced,7.0,7,Medium,No
+68700,Divorced,1.0,8,Low,No
+104470,Divorced,1.0,1,Medium,No
+96670,Divorced,3.0,8,Medium,No
+21480,Married,3.0,11,High,No
+89260,Married,1.0,4,High,No
+65130,Single,1.0,16,Very High,No
+67990,Married,3.0,1,Very High,No
+162910,Married,1.0,9,Low,No
+27050,Single,1.0,5,Very High,No
+103330,Divorced,3.0,1,High,Yes
+44480,Divorced,9.0,2,Very High,No
+68540,Divorced,2.0,4,Medium,Yes
+96370,Single,1.0,7,Very High,No
+35910,Single,9.0,1,Low,No
+54050,Single,4.0,5,Medium,No
+46840,Divorced,1.0,9,Medium,No
+157870,Single,1.0,8,Very High,Yes
+15140,Married,1.0,9,Very High,No
+29560,Married,5.0,2,Medium,No
+23350,Single,1.0,1,High,Yes
+51540,Married,0.0,20,Medium,No
+69620,Married,4.0,8,Very High,No
+56750,Divorced,5.0,2,Medium,No
+23790,Single,1.0,29,Medium,No
+38120,Single,1.0,7,High,No
+46480,Single,0.0,9,Low,No
+29360,Married,4.0,8,Very High,No
+21050,Divorced,0.0,5,Very High,No
+85780,Married,7.0,5,Medium,No
+27060,Married,1.0,2,High,No
+63840,Married,3.0,5,Medium,No
+39680,Divorced,2.0,2,High,No
+99070,Married,0.0,20,Very High,No
+132250,Married,3.0,7,Low,No
+35400,Divorced,1.0,3,Low,No
+28040,Divorced,0.0,16,Very High,No
+193920,Married,6.0,9,Medium,No
+196650,Married,1.0,1,Low,No
+24390,Single,0.0,7,Very High,No
+73140,Single,7.0,1,High,No
+47740,Married,2.0,7,Medium,Yes
+39020,Single,1.0,15,Medium,No
+26620,Married,1.0,1,Medium,No
+28560,Single,1.0,13,High,No
+10810,Divorced,4.0,24,Very High,No
+24720,Single,7.0,7,Very High,No
+56730,Married,5.0,9,Very High,Yes
+41970,Married,1.0,13,Very High,No
+97130,Married,1.0,2,High,No
+20620,Married,1.0,19,Very High,No
+42840,Married,4.0,1,High,Yes
+47880,Single,3.0,4,Very High,No
+59060,Married,4.0,4,High,No
+38860,Divorced,1.0,14,High,No
+168230,Married,0.0,2,Medium,No
+29330,Single,3.0,1,High,No
+65000,Married,8.0,7,Low,No
+171740,Married,9.0,3,Very High,No
+50330,Married,2.0,2,Very High,No
+23070,Married,1.0,29,Low,Yes
+25870,Single,0.0,8,Very High,No
+55070,Divorced,1.0,10,High,No
+43930,Married,1.0,11,Medium,No
+133480,Divorced,7.0,1,Very High,No
+65830,Divorced,0.0,28,Very High,No
+39780,Divorced,1.0,3,Medium,No
+25440,Single,0.0,16,Medium,No
+53990,Divorced,1.0,20,Very High,No
+54870,Single,6.0,9,Medium,No
+68340,Single,3.0,1,High,No
+10910,Single,2.0,3,Very High,No
+57360,Married,1.0,22,High,No
+22260,Divorced,0.0,7,High,No
+57470,Married,1.0,2,Medium,No
+98540,Married,3.0,13,High,No
+54670,Divorced,4.0,8,Low,No
+53800,Married,7.0,25,High,No
+51510,Married,1.0,28,High,No
+21330,Single,3.0,2,Very High,No
+178750,Single,1.0,9,Medium,Yes
+24320,Single,4.0,28,Very High,No
+47710,Married,4.0,6,Very High,No
+191610,Married,2.0,21,High,No
+50870,Married,3.0,8,High,No
+28630,Single,1.0,1,Very High,No
+55610,Single,1.0,28,High,Yes
+21440,Married,6.0,5,Low,No
+30650,Married,2.0,2,High,No
+28100,Single,1.0,16,Medium,Yes
+98880,Single,6.0,9,Very High,No
+86280,Married,2.0,8,High,Yes
+28670,Single,0.0,1,Medium,No
+53730,Single,1.0,10,Medium,Yes
+66670,Single,9.0,1,Very High,No
+50030,Single,9.0,29,Medium,No
+23670,Divorced,1.0,2,Medium,No
+28580,Single,1.0,2,Very High,No
+52040,Single,8.0,2,High,No
+41050,Married,4.0,1,Very High,No
+96790,Married,4.0,15,High,No
+56170,Single,8.0,7,Very High,Yes
+104480,Single,2.0,26,Very High,No
+28970,Divorced,1.0,1,High,No
+75100,Single,0.0,14,Low,Yes
+29910,Married,1.0,16,Medium,No
+196360,Married,1.0,1,High,No
+11290,Single,9.0,3,Very High,Yes
+133410,Divorced,1.0,10,Low,No
+43320,Divorced,7.0,6,Medium,No
+110310,Divorced,3.0,2,Low,No
+44400,Single,2.0,9,Medium,No
+46170,Divorced,1.0,10,Medium,No
+26470,Married,6.0,6,High,No
+63230,Married,4.0,9,Low,No
+56770,Married,9.0,28,High,No
+21870,Married,1.0,10,Low,No
+37480,Married,7.0,14,Very High,No
+39770,Divorced,4.0,27,High,No
+86330,Single,1.0,7,Very High,No
+20080,Married,3.0,1,High,No
+44400,Married,1.0,24,Low,No
+30670,Divorced,1.0,26,High,No
+53210,Married,9.0,20,Low,No
+54100,Single,0.0,5,High,No
+119570,Divorced,1.0,7,Low,No
+26600,Married,5.0,5,Low,Yes
+33750,Married,2.0,26,High,No
+50980,Married,3.0,2,Very High,No
+48780,Married,2.0,12,Very High,No
+28370,Divorced,2.0,10,High,No
+24060,Single,2.0,25,Very High,No
+22690,Married,5.0,10,Low,No
+41080,Divorced,2.0,19,High,No
+132060,Married,0.0,18,Very High,No
+104220,Single,1.0,27,Medium,Yes
+137440,Divorced,0.0,5,High,Yes
+49070,Married,1.0,3,Very High,No
+34820,Married,0.0,26,High,No
+24360,Divorced,1.0,3,Very High,No
+23800,Married,4.0,15,Very High,No
+194310,Married,1.0,8,High,No
+17900,Married,5.0,19,Medium,Yes
+76440,Single,1.0,4,Very High,Yes
+51310,Married,0.0,2,Low,No
+63060,Divorced,3.0,2,Very High,No
+47870,Married,0.0,10,High,No
+188800,Single,0.0,10,Very High,No
+23390,Married,4.0,16,Low,No
+135700,Divorced,5.0,1,Very High,No
+67120,Married,6.0,4,High,No
+54060,Single,0.0,15,High,No
+89380,Single,7.0,2,High,No
+88370,Married,2.0,2,Very High,No
+53430,Divorced,1.0,7,Medium,No
+67280,Married,7.0,10,High,Yes
+66520,Divorced,7.0,5,Very High,Yes
+48500,Single,0.0,2,Medium,No
+56890,Married,3.0,22,High,Yes
+20010,Divorced,9.0,17,Low,Yes
+29770,Married,4.0,2,High,No
+40250,Single,1.0,3,Very High,No
+37850,Single,5.0,7,High,Yes
+108540,Married,2.0,6,Very High,No
+120310,Single,3.0,1,Medium,No
+99360,Single,7.0,3,Very High,No
+29660,Married,9.0,22,High,No
+25710,Single,7.0,15,High,No
+99910,Married,1.0,12,High,No
+61420,Single,4.0,1,Very High,No
+53900,Married,1.0,5,Low,No
+44040,Married,0.0,2,Medium,No
+59930,Divorced,0.0,2,High,Yes
+51300,Divorced,4.0,5,Very High,No
+20900,Divorced,4.0,16,High,No
+29090,Divorced,9.0,2,Very High,No
+34680,Single,1.0,2,Medium,Yes
+30680,Divorced,3.0,1,Low,No
+26700,Single,2.0,23,High,No
+26930,Divorced,5.0,9,High,No
+95260,Single,1.0,16,High,No
+52370,Single,1.0,26,Very High,No
+24260,Single,1.0,1,Very High,Yes
+41930,Single,4.0,8,Very High,No
+29110,Married,5.0,4,High,No
+26610,Married,7.0,24,Low,No
+20280,Divorced,1.0,7,Medium,No
+99800,Divorced,3.0,2,Low,No
+32980,Married,8.0,7,High,Yes
+29350,Married,0.0,22,Very High,No
+154270,Married,3.0,5,High,No
+39440,Married,6.0,1,Medium,No
+40110,Divorced,1.0,21,High,No
+34070,Married,1.0,1,Very High,No
+119940,Married,1.0,19,Medium,No
+12320,Married,1.0,7,Medium,No
+29600,Married,1.0,2,Medium,No
+190940,Married,1.0,2,High,No
+39190,Married,1.0,2,High,Yes
+68250,Married,1.0,9,Low,Yes
+102480,Married,1.0,6,Very High,No
+189470,Divorced,2.0,9,Low,Yes
+24960,Single,4.0,2,Very High,No
+64650,Divorced,4.0,1,Very High,No
+22060,Divorced,0.0,22,High,No
+20860,Married,4.0,9,High,No
+22930,Single,1.0,17,Medium,No
+26450,Married,1.0,28,Very High,No
+26830,Divorced,4.0,10,Very High,No
+20140,Single,3.0,2,Low,No
+34190,Divorced,3.0,4,High,No
+53760,Married,7.0,8,Low,No
+19510,Single,4.0,29,High,No
+23410,Divorced,1.0,13,High,No
+22930,Divorced,0.0,27,Low,Yes
+87260,Single,1.0,16,High,No
+40110,Married,4.0,2,Very High,No
+195450,Married,0.0,2,High,No
+45680,Divorced,0.0,13,High,No
+30220,Married,1.0,1,Very High,No
+57720,Divorced,1.0,4,High,No
+22690,Single,7.0,24,Low,No
+53810,Married,1.0,1,Very High,No
+34410,Married,2.0,19,Low,Yes
+54540,Married,1.0,7,Very High,No
+98840,Married,1.0,4,High,No
+41570,Married,1.0,2,High,No
+134580,Single,1.0,10,Very High,No
+90690,Divorced,3.0,8,Very High,No
+40140,Married,2.0,5,Medium,No
+59150,Divorced,2.0,8,Medium,No
+59930,Single,0.0,9,Very High,No
+61620,Single,1.0,1,High,Yes
+24060,Single,1.0,15,Low,Yes
+187400,Married,1.0,2,High,No
+76370,Married,2.0,2,Low,No
+100960,Married,0.0,11,Medium,No
+147560,Single,0.0,16,Very High,No
+64990,Divorced,1.0,2,Very High,No
+97240,Married,3.0,16,Medium,No
+21940,Divorced,1.0,4,Very High,No
+33880,Single,3.0,16,Very High,No
+54730,Married,1.0,5,High,No
+27030,Single,1.0,18,Medium,No
+25010,Single,9.0,17,High,Yes
+62200,Single,1.0,12,High,No
+30380,Single,1.0,2,Very High,No
+44240,Married,3.0,4,High,Yes
+43120,Single,0.0,9,Very High,No
+132450,Married,1.0,10,Low,No
+136640,Single,3.0,1,Very High,No
+50210,Single,2.0,2,Low,No
+51260,Married,5.0,3,Low,No
+28590,Married,3.0,7,High,No
+102390,Divorced,3.0,6,Very High,No
+53290,Single,8.0,8,Low,No
+43250,Divorced,1.0,29,Low,No
+72600,Married,1.0,3,High,No
+23220,Married,7.0,9,Medium,No
+20750,Single,7.0,2,Medium,Yes
+41520,Married,9.0,10,Low,No
+96190,Single,4.0,1,High,No
+135030,Single,2.0,8,High,No
+54410,Divorced,9.0,27,High,No
+52090,Divorced,7.0,8,Very High,No
+106730,Single,1.0,1,High,No
+50100,Divorced,6.0,10,High,Yes
+135490,Married,3.0,26,Very High,No
+49990,Single,3.0,2,High,No
+42210,Married,1.0,13,Low,No
+138720,Married,9.0,2,Medium,No
+20420,Married,7.0,2,Very High,No
+20730,Single,0.0,9,Very High,No
+29560,Single,8.0,10,Low,No
+29260,Divorced,1.0,20,Medium,No
+48090,Single,2.0,9,Very High,No
+51630,Divorced,2.0,5,Low,No
+188440,Married,1.0,4,Very High,No
+181720,Married,6.0,10,High,No
+57440,Divorced,3.0,20,Low,No
+28890,Married,1.0,21,Low,No
+28710,Single,1.0,1,Very High,Yes
+74840,Single,1.0,8,Very High,No
+60740,Single,0.0,2,High,No
+173280,Single,1.0,23,High,No
+27740,Single,4.0,4,High,Yes
+45050,Single,1.0,12,Very High,No
+74280,Married,5.0,7,Low,Yes
+116310,Single,1.0,7,Low,No
+97380,Married,0.0,1,Very High,No
+28350,Divorced,3.0,2,Very High,No
+169590,Married,4.0,10,High,No
+26130,Single,6.0,15,Low,Yes
+61460,Single,2.0,14,Very High,No
+49630,Divorced,9.0,18,Low,No
+195370,Married,0.0,13,Very High,No
+61720,Divorced,0.0,2,Low,No
+23680,Single,6.0,2,Low,No
+16750,Married,1.0,5,Very High,No
+25230,Married,3.0,20,High,No
+65670,Married,1.0,10,Medium,No
+47390,Married,5.0,10,Low,No
+92080,Divorced,1.0,9,Very High,No
+45590,Married,1.0,2,Low,Yes
+81890,Divorced,1.0,1,Medium,No
+29420,Married,8.0,29,High,No
+49410,Married,5.0,8,High,No
+106500,Married,1.0,2,Low,Yes
+59020,Married,0.0,3,High,No
+86390,Single,5.0,23,Low,Yes
+63470,Married,1.0,6,Very High,No
+42000,Married,0.0,6,Medium,No
+34520,Married,1.0,10,High,No
+43170,Single,7.0,24,Medium,Yes
+26320,Single,3.0,10,High,No
+46680,Married,9.0,15,Very High,No
+32040,Single,6.0,19,High,Yes
+27200,Married,4.0,2,Medium,No
+171810,Married,1.0,3,High,No
+22380,Single,6.0,9,High,No
+14830,Single,5.0,7,Very High,No
+56050,Single,1.0,10,High,No
+72950,Married,1.0,20,Medium,No
+23060,Divorced,2.0,4,Low,No
+23480,Single,1.0,7,Very High,No
+89980,Married,1.0,7,Very High,Yes
+43190,Single,4.0,16,Very High,Yes
+61320,Married,6.0,25,Low,No
+33460,Divorced,1.0,2,Very High,No
+108550,Single,3.0,1,High,No
+22310,Married,1.0,1,Medium,No
+20240,Married,1.0,22,High,Yes
+27130,Married,1.0,1,Very High,No
+94390,Married,2.0,16,High,No
+25660,Single,9.0,24,Medium,No
+199260,Single,7.0,17,Low,No
+24510,Divorced,1.0,8,Low,No
+94190,Single,1.0,6,Low,No
+86860,Married,1.0,10,Very High,No
+30380,Divorced,2.0,3,Very High,No
+30580,Divorced,9.0,4,Very High,No
+23250,Married,7.0,6,Very High,No
+20880,Divorced,4.0,1,Low,No
+30720,Married,5.0,10,High,No
+50060,Married,3.0,1,Very High,No
+42570,Divorced,4.0,24,High,No
+25000,Divorced,1.0,21,Very High,No
+11020,Married,6.0,2,Very High,No
+104530,Married,2.0,22,Very High,No
+22880,Single,5.0,13,Very High,No
+39290,Married,0.0,14,Low,No
+23110,Married,1.0,11,Low,No
+31400,Married,1.0,9,High,No
+36900,Divorced,1.0,8,Medium,Yes
+44500,Divorced,0.0,21,Very High,No
+27560,Married,1.0,5,Low,No
+190330,Married,2.0,9,Low,No
+187220,Married,0.0,2,Very High,No
+95470,Married,1.0,12,Medium,No
+137340,Married,0.0,22,Medium,No
+199990,Married,2.0,18,Very High,No
+22790,Married,3.0,16,Very High,No
+59160,Divorced,6.0,3,High,Yes
+20890,Married,5.0,9,Very High,No
+167920,Married,3.0,1,Medium,No
+35640,Married,5.0,13,Very High,No
+44250,Single,6.0,1,Very High,No
+52650,Married,4.0,1,Very High,No
+65530,Married,0.0,15,Very High,No
+62610,Single,1.0,1,Medium,No
+42980,Divorced,1.0,17,Low,No
+68040,Married,8.0,1,Very High,No
+38150,Divorced,3.0,7,Medium,No
+27410,Single,1.0,9,Very High,Yes
+76390,Married,1.0,26,Low,No
+23280,Single,1.0,24,Very High,No
+21530,Divorced,9.0,9,Very High,Yes
+48760,Divorced,4.0,7,Medium,No
+93960,Single,1.0,11,High,Yes
+104000,Single,1.0,1,Very High,Yes
+84740,Married,0.0,26,Very High,No
+99810,Single,1.0,2,Very High,No
+124900,Married,0.0,15,High,Yes
+26570,Divorced,4.0,23,Very High,Yes
+135910,Divorced,5.0,10,High,No
+66960,Married,7.0,10,Low,Yes
+20580,Single,1.0,1,High,No
+88650,Divorced,1.0,12,Medium,No
+59400,Single,7.0,11,High,No
+59140,Single,3.0,2,Low,No
+26220,Divorced,2.0,2,Medium,No
+121850,Married,3.0,1,High,No
+106090,Married,1.0,2,Very High,No
+43450,Married,4.0,25,Medium,No
+21770,Married,4.0,1,High,No
+27930,Married,1.0,1,High,No
+79180,Single,2.0,2,Very High,No
+87890,Married,1.0,6,Low,No
+23890,Married,6.0,18,Medium,No
+32120,Married,1.0,1,Medium,Yes
+192320,Divorced,2.0,1,Medium,No
+22670,Single,1.0,11,Low,No
+195170,Single,2.0,1,Low,No
+24360,Single,4.0,9,High,No
+160640,Single,1.0,15,Medium,Yes
+27070,Single,1.0,29,Low,Yes
+190680,Married,0.0,1,Very High,No
+39310,Divorced,8.0,1,Medium,No
+37300,Married,1.0,24,Low,No
+22320,Married,1.0,10,Very High,Yes
+44650,Single,0.0,1,Very High,No
+30720,Married,5.0,10,High,Yes
+33190,Married,1.0,8,Medium,No
+192020,Married,1.0,29,Very High,No
+136750,Married,1.0,1,High,No
+29110,Married,2.0,5,Very High,No
+59570,Single,4.0,9,High,Yes
+39200,Divorced,6.0,9,High,No
+64340,Divorced,5.0,3,High,No
+100480,Single,1.0,4,Very High,No
+109380,Divorced,6.0,1,Very High,No
+65450,Single,4.0,2,Medium,Yes
+69310,Divorced,1.0,7,High,No
+48980,Divorced,4.0,28,Very High,No
+25930,Single,0.0,28,Low,Yes
+194360,Single,1.0,15,High,No
+27230,Single,6.0,3,Low,Yes
+34790,Single,3.0,2,Very High,No
+27940,Divorced,3.0,26,Very High,No
+52490,Divorced,9.0,10,Very High,No
+21760,Married,1.0,1,Medium,No
+168720,Divorced,2.0,11,High,No
+34850,Married,9.0,20,Medium,No
+66440,Married,1.0,2,Low,No
+55820,Single,1.0,18,Very High,No
+40000,Married,4.0,2,High,Yes
+134960,Married,3.0,1,High,No
+32100,Married,0.0,13,High,No
+190450,Divorced,6.0,28,High,No
+118490,Divorced,1.0,28,High,No
+20700,Divorced,1.0,24,Medium,Yes
+65020,Married,1.0,5,Low,No
+32300,Single,1.0,5,Very High,No
+136030,Married,8.0,23,High,No
+119960,Divorced,1.0,6,High,No
+56050,Married,0.0,4,Low,No
+63970,Single,1.0,2,Low,Yes
+191440,Single,0.0,8,Medium,Yes
+175840,Married,1.0,1,Very High,No
+49070,Married,1.0,8,Low,No
+45540,Single,2.0,2,High,No
+54150,Single,7.0,3,High,No
+47410,Single,6.0,2,High,No
+21150,Married,1.0,2,Very High,No
+31610,Married,0.0,3,Very High,No
+57450,Divorced,1.0,24,Very High,No
+23730,Married,6.0,23,High,No
+33100,Married,4.0,27,Very High,No
+186650,Single,3.0,16,Very High,No
+44850,Married,5.0,15,Medium,Yes
+27890,Married,3.0,26,Medium,No
+58280,Divorced,1.0,19,High,No
+23260,Single,8.0,24,Very High,No
+135250,Single,8.0,21,Low,Yes
+14200,Married,1.0,5,Very High,Yes
+80200,Married,3.0,16,Very High,No
+36880,Married,0.0,2,High,No
+54820,Single,1.0,2,Low,Yes
+160150,Single,1.0,11,Low,No
+12000,Single,0.0,9,Very High,No
+56610,Married,3.0,7,Very High,No
+69290,Single,9.0,15,High,No
+96130,Divorced,0.0,6,Very High,No
+56740,Married,3.0,5,Very High,No
+54840,Single,1.0,16,Medium,No
+120610,Married,2.0,8,Medium,No
+56600,Divorced,7.0,7,High,Yes
+48210,Married,6.0,2,Low,Yes
+64100,Married,1.0,2,High,No
+52100,Married,1.0,10,Medium,No
+26950,Married,3.0,9,High,No
+118780,Married,2.0,5,High,No
+170680,Single,3.0,1,Medium,No
+24550,Married,1.0,2,Low,No
+139640,Divorced,1.0,3,High,No
+49410,Divorced,9.0,2,Very High,No
+24780,Married,6.0,5,High,No
+52280,Married,2.0,1,High,No
+44780,Single,0.0,4,Very High,No
+75470,Single,7.0,2,Low,No
+50550,Divorced,5.0,25,Very High,No
+34640,Single,1.0,8,Very High,Yes
+57750,Single,1.0,1,Low,Yes
+89430,Divorced,8.0,12,Low,No
+192720,Married,9.0,23,High,Yes
+52380,Single,1.0,19,Low,Yes
+46820,Married,1.0,5,Low,No
+183000,Married,0.0,8,Low,No
+52570,Married,1.0,1,High,No
+63490,Married,0.0,5,High,No
+48690,Married,4.0,1,Very High,No
+99850,Married,1.0,11,High,No
+36970,Married,3.0,23,Medium,No
+74570,Single,3.0,1,High,No
+21190,Married,9.0,18,Low,Yes
+39830,Divorced,4.0,23,Very High,No
+61180,Single,0.0,7,Low,Yes
+62140,Single,1.0,1,High,Yes
+63470,Divorced,1.0,1,High,No
+115100,Single,0.0,29,Very High,No
+71430,Divorced,2.0,7,Very High,No
+82680,Married,1.0,25,Very High,Yes
+80950,Divorced,1.0,8,High,Yes
+29040,Single,4.0,8,Medium,Yes
+60320,Married,0.0,11,Low,No
+29760,Divorced,1.0,7,Medium,Yes
+159920,Single,3.0,1,High,Yes
+46490,Married,0.0,9,Medium,No
+26960,Married,3.0,1,Very High,No
+23700,Single,2.0,2,Very High,No
+125040,Married,1.0,1,High,No
+59740,Single,7.0,1,Medium,No
+47360,Divorced,0.0,6,High,No
+52960,Divorced,4.0,8,Very High,No
+67810,Divorced,0.0,1,Medium,No
+21740,Married,3.0,6,High,No
+66530,Single,7.0,7,Medium,No
+96990,Married,8.0,5,Low,No
+67550,Divorced,7.0,1,Very High,Yes
+22130,Single,1.0,1,High,No
+26100,Single,1.0,1,Medium,No
+28510,Single,9.0,6,Medium,No
+34520,Single,2.0,1,Very High,No
+52580,Married,0.0,7,Very High,No
+93550,Married,0.0,2,Medium,No
+104960,Divorced,1.0,9,Very High,No
+63800,Married,6.0,2,Medium,No
+26570,Single,2.0,9,High,No
+27160,Divorced,0.0,1,Medium,No
+22010,Single,4.0,21,Very High,No
+65400,Married,1.0,4,Very High,No
+38160,Married,1.0,1,High,No
+52530,Divorced,1.0,6,High,No
+109650,Single,1.0,2,High,Yes
+49360,Single,0.0,3,Low,Yes
+25430,Married,3.0,4,Very High,No
+53040,Married,1.0,10,High,Yes
+166590,Divorced,7.0,23,Very High,No
+42600,Married,1.0,6,High,No
+24760,Married,1.0,1,High,No
+31020,Single,1.0,6,High,No
+22440,Married,1.0,6,Low,Yes
+75960,Single,9.0,2,High,No
+22850,Single,0.0,2,Low,Yes
+30340,Single,7.0,1,Low,No
+57150,Married,6.0,5,High,No
+25760,Single,8.0,7,Medium,No
+41970,Married,1.0,15,Very High,Yes
+143360,Married,1.0,1,Very High,No
+194060,Married,3.0,26,Very High,No
+65380,Divorced,2.0,18,Medium,No
+43060,Single,0.0,6,Low,No
+22580,Married,1.0,3,Very High,No
+45220,Single,8.0,5,High,Yes
+44870,Divorced,1.0,11,Low,No
+191970,Single,1.0,23,Low,No
+132120,Married,4.0,22,High,No
+65770,Married,1.0,14,Very High,No
+83920,Single,1.0,6,High,No
+45580,Single,1.0,6,High,Yes
+40310,Divorced,3.0,6,High,No
+79690,Married,0.0,23,Very High,No
+26540,Married,0.0,22,Very High,Yes
+165550,Married,8.0,2,Low,No
+45560,Single,2.0,20,High,No
+60910,Married,1.0,28,High,No
+195660,Divorced,6.0,12,Low,Yes
+48100,Divorced,8.0,20,Low,No
+45230,Married,5.0,9,Medium,No
+32020,Married,2.0,25,Low,No
+23510,Married,1.0,6,Low,No
+17020,Married,5.0,8,Medium,No
+180410,Married,3.0,4,Low,No
+28860,Married,1.0,28,Medium,Yes
+20970,Married,1.0,9,High,No
+119350,Divorced,1.0,9,High,No
+25460,Divorced,1.0,29,High,No
+25640,Single,1.0,3,Very High,No
+84120,Single,1.0,18,Very High,No
+141180,Divorced,2.0,9,Very High,No
+170460,Married,7.0,5,Low,No
+25640,Divorced,0.0,2,Very High,No
+102660,Married,1.0,10,Medium,No
+50700,Single,4.0,9,High,No
+178610,Divorced,2.0,3,Low,No
+42300,Married,0.0,26,Very High,No
+37800,Divorced,7.0,1,Medium,No
+27680,Single,0.0,6,Very High,No
+90710,Married,0.0,9,Medium,No
+106480,Married,3.0,8,Low,No
+136100,Married,4.0,1,Very High,No
+34080,Married,1.0,7,Low,No
+29830,Divorced,7.0,9,High,No
+76320,Married,1.0,4,Very High,No
+98240,Single,1.0,2,Medium,Yes
+99500,Divorced,1.0,19,Very High,No
+20930,Married,3.0,9,Very High,No
+99800,Married,1.0,21,Low,No
+38940,Single,1.0,24,Low,No
+40510,Single,5.0,3,Very High,No
+168350,Married,3.0,11,Very High,No
+62300,Married,2.0,14,High,No
+47170,Married,1.0,5,Medium,No
+132370,Single,5.0,1,Medium,No
+37550,Divorced,1.0,6,High,No
+65820,Divorced,1.0,17,Very High,No
+74060,Single,6.0,1,Very High,No
+48050,Divorced,3.0,3,Very High,No
+27410,Married,0.0,9,High,No
+42620,Married,7.0,4,Medium,No
+161840,Divorced,0.0,8,High,No
+115570,Single,1.0,2,Very High,No
+18780,Married,1.0,2,High,No
+109320,Single,1.0,1,Very High,Yes
+68110,Single,1.0,9,Very High,No
+43060,Single,2.0,12,Medium,Yes
+48590,Divorced,1.0,27,Medium,No
+53370,Single,1.0,20,High,Yes
+23400,Married,2.0,1,Medium,No
+74910,Single,0.0,13,Low,No
+105270,Divorced,4.0,14,Medium,No
+165950,Single,6.0,4,Very High,No
+88340,Divorced,4.0,14,Medium,No
+55770,Single,0.0,2,High,No
+47070,Divorced,1.0,3,Low,No
+24000,Married,4.0,1,Medium,No
+98240,Married,0.0,9,High,No
+64470,Married,6.0,23,Medium,No
+195020,Single,3.0,7,Very High,No
+27250,Single,9.0,2,Medium,No
+62720,Married,1.0,21,Very High,Yes
+21270,Married,1.0,2,Very High,No
+182000,Single,0.0,21,High,No
+20960,Single,7.0,2,High,No
+28860,Divorced,3.0,29,High,Yes
+20330,Single,2.0,1,Low,No
+36220,Single,1.0,18,Medium,No
+42330,Married,1.0,10,Very High,No
+36810,Single,3.0,19,Medium,No
+54600,Divorced,6.0,29,Medium,No
+21870,Divorced,1.0,27,High,No
+96020,Married,1.0,5,High,Yes
+28360,Single,0.0,18,Low,Yes
+40890,Married,0.0,9,Very High,No
+166270,Married,3.0,1,High,No
+26190,Single,6.0,4,Low,No
+56790,Married,0.0,1,Very High,No
+154020,Married,4.0,20,Low,No
+59850,Single,2.0,8,Medium,Yes
+25790,Single,9.0,3,Medium,Yes
+30410,Married,1.0,6,Low,No
+34470,Single,0.0,26,High,No
+195130,Divorced,1.0,1,High,No
+27730,Single,1.0,6,Medium,No
+71040,Single,1.0,3,Medium,Yes
+63220,Married,4.0,5,Low,Yes
+20830,Married,0.0,4,High,No
+83810,Married,4.0,11,High,No
+26910,Single,6.0,3,Medium,No
+42860,Divorced,9.0,1,High,No
+26590,Divorced,0.0,3,Very High,No
+94340,Single,1.0,4,Very High,No
+55610,Divorced,0.0,1,Low,No
+66460,Single,1.0,1,High,No
+77250,Divorced,1.0,18,Medium,No
+107250,Divorced,3.0,2,Low,No
+88470,Single,1.0,4,Low,No
+20450,Married,3.0,6,Very High,No
+10090,Married,7.0,1,Low,Yes
+33480,Married,3.0,14,Medium,No
+12810,Married,2.0,16,Low,No
+28190,Single,1.0,2,Very High,No
+48510,Married,8.0,2,Very High,No
+40280,Single,3.0,4,Medium,No
+81200,Married,0.0,1,Very High,No
+46470,Single,3.0,26,Very High,No
+46800,Single,6.0,19,High,Yes
+32210,Married,4.0,24,Medium,No
+86210,Divorced,1.0,1,High,No
+45770,Divorced,5.0,3,High,No
+45530,Married,4.0,5,High,No
+53960,Single,7.0,2,Very High,Yes
+67960,Married,0.0,1,High,Yes
+76250,Divorced,1.0,7,High,No
+74120,Single,1.0,10,Very High,No
+111590,Married,1.0,2,Low,No
+49600,Married,1.0,15,High,Yes
+104750,Married,3.0,17,Very High,No
+148140,Married,2.0,20,Medium,No
+191410,Divorced,3.0,1,Very High,No
+54050,Married,7.0,2,High,No
+87930,Married,6.0,2,Very High,No
+191890,Married,0.0,1,Medium,No
+38750,Married,3.0,29,High,No
+22160,Married,2.0,7,High,No
+117130,Married,2.0,2,High,No
+78610,Single,1.0,2,High,No
+37080,Married,1.0,2,Very High,No
+137700,Single,1.0,2,High,Yes
+53040,Single,0.0,2,Very High,No
+27590,Married,9.0,5,Low,No
+68040,Single,4.0,20,High,No
+61420,Single,2.0,6,Very High,No
+25000,Married,4.0,1,Very High,No
+63890,Single,0.0,29,Low,No
+111030,Single,1.0,9,Low,No
+23420,Single,3.0,6,Low,Yes
+68110,Single,0.0,3,Very High,Yes
+22970,Single,6.0,1,Very High,No
+24500,Married,3.0,22,Low,No
+50930,Divorced,2.0,7,Very High,No
+53090,Single,3.0,1,Medium,No
+30570,Single,1.0,4,High,Yes
+51210,Divorced,7.0,3,Low,No
+168560,Single,3.0,1,Medium,No
+26860,Divorced,5.0,2,Low,No
+61800,Single,1.0,20,Medium,Yes
+66320,Married,0.0,11,Low,No
+35050,Single,1.0,1,Very High,No
+63970,Married,4.0,24,Low,No
+62740,Married,7.0,23,Very High,No
+198590,Married,3.0,16,Low,Yes
+75870,Single,0.0,8,High,No
+42580,Married,2.0,10,Low,No
+43640,Married,3.0,3,High,No
+43350,Married,1.0,5,High,No
+53260,Married,4.0,4,Very High,No
+32800,Married,5.0,9,Medium,No
+54850,Married,2.0,26,High,No
+43420,Divorced,3.0,3,High,No
+27820,Divorced,1.0,16,Very High,No
+59800,Divorced,4.0,18,Very High,Yes
+43810,Single,2.0,2,Low,Yes
+25720,Single,1.0,2,Medium,Yes
+38330,Divorced,2.0,10,Low,No
+42440,Single,9.0,16,Medium,No
+65000,Married,6.0,7,Very High,Yes
+184300,Married,4.0,1,Very High,No
+16010,Divorced,4.0,24,Low,No
+26940,Married,1.0,7,High,Yes
+31490,Divorced,2.0,25,Medium,No
+176390,Single,0.0,1,Low,No
+23190,Single,3.0,5,High,No
+116910,Single,4.0,2,Medium,No
+53240,Married,2.0,7,High,No
+167520,Divorced,2.0,2,High,No
+52280,Single,1.0,5,Medium,No
+27000,Married,0.0,10,Low,No
+192460,Single,3.0,10,Low,No
+25060,Married,8.0,1,High,No
+60620,Single,1.0,8,Very High,No
+43820,Married,7.0,5,High,No
+21430,Divorced,1.0,8,High,No
+61620,Married,0.0,2,High,No
+50940,Divorced,3.0,7,Medium,No
+68770,Divorced,7.0,2,Low,No
+22740,Married,3.0,2,High,Yes
+44340,Single,5.0,28,Medium,Yes
+62880,Single,0.0,7,Medium,Yes
+25530,Married,1.0,7,High,No
+76540,Single,2.0,3,Low,Yes
+51600,Married,1.0,10,Medium,No
+171590,Single,5.0,5,High,No
+128080,Divorced,1.0,10,High,No
+102210,Divorced,0.0,1,High,No
+47790,Married,0.0,20,High,No
+37370,Married,8.0,7,Medium,No
+23660,Married,3.0,8,High,No
+17060,Single,7.0,1,Low,Yes
+163070,Divorced,1.0,8,High,No
+59330,Single,0.0,9,Low,No
+34240,Married,4.0,5,Low,No
+40370,Married,0.0,8,Medium,No
+25590,Married,1.0,5,Medium,No
+62010,Single,2.0,15,High,No
+44030,Single,2.0,7,Very High,No
+37610,Divorced,3.0,10,Very High,No
+109340,Single,6.0,5,Low,Yes
+107610,Married,3.0,26,Low,No
+51750,Single,4.0,6,Medium,No
+138260,Married,8.0,4,Medium,No
+63340,Single,1.0,23,Medium,No
+49360,Single,0.0,2,High,No
+47750,Single,3.0,2,Low,Yes
+28180,Married,1.0,2,High,No
+25150,Single,1.0,29,High,Yes
+23420,Single,1.0,6,Very High,No
+41940,Married,0.0,25,High,No
+106850,Married,4.0,1,Medium,No
+20220,Married,1.0,2,Very High,No
+23140,Married,3.0,1,Low,No
+42560,Single,1.0,1,Medium,No
+35800,Married,4.0,3,Very High,No
+31620,Married,2.0,1,Very High,No
+65240,Married,0.0,10,Low,No
+28990,Married,1.0,9,High,No
+23560,Divorced,0.0,10,Low,No
+28000,Divorced,3.0,7,Very High,No
+118360,Divorced,1.0,4,Medium,No
+109030,Married,0.0,10,High,No
+29730,Married,3.0,22,Medium,No
+142750,Single,3.0,9,Very High,No
+55620,Divorced,8.0,12,High,No
+45370,Married,6.0,23,High,No
+76420,Married,2.0,9,Low,No
+179240,Married,1.0,1,Low,Yes
+52040,Married,3.0,9,High,No
+22770,Single,1.0,7,Low,No
+27950,Married,3.0,14,Medium,No
+25320,Divorced,1.0,2,Low,Yes
+25590,Married,0.0,19,Very High,Yes
+49080,Married,4.0,2,Medium,Yes
+23800,Married,4.0,10,Low,No
+47650,Married,8.0,2,Low,No
+20440,Single,1.0,3,Very High,No
+26930,Married,1.0,11,Very High,No
+65860,Married,9.0,2,Very High,No
+32940,Married,1.0,4,Very High,No
+41710,Married,0.0,14,Medium,No
+27780,Single,2.0,2,Medium,No
+23770,Single,6.0,1,High,No
+24040,Single,1.0,10,Low,No
+23180,Single,3.0,12,High,No
+20080,Married,2.0,2,High,No
+62440,Divorced,1.0,5,Very High,No
+27990,Married,4.0,4,High,No
+105520,Married,2.0,7,High,No
+23290,Married,3.0,21,Low,No
+40140,Single,8.0,8,Very High,No
+74030,Married,1.0,4,High,No
+22590,Married,1.0,25,High,No
+69320,Married,1.0,1,Low,No
+46780,Divorced,5.0,1,Medium,No
+135820,Married,1.0,6,Very High,No
+23320,Single,1.0,12,Low,No
+97050,Married,1.0,17,High,No
+42940,Married,2.0,3,High,No
+47210,Married,3.0,3,Very High,No
+25190,Divorced,0.0,10,Very High,No
+21210,Married,1.0,4,Medium,No
+29730,Single,1.0,29,Low,No
+58550,Married,1.0,2,Low,No
+36170,Single,7.0,7,Low,No
+67250,Married,9.0,18,High,No
+103250,Divorced,1.0,28,Very High,No
+69490,Married,1.0,1,Low,No
+106090,Married,2.0,6,Low,No
+44470,Divorced,1.0,2,Low,No
+21570,Married,1.0,2,Low,No
+46010,Divorced,0.0,23,Low,No
+170990,Single,1.0,3,Very High,No
+24790,Single,1.0,3,Very High,Yes
+148520,Married,3.0,25,High,No
+72640,Divorced,0.0,2,High,No
+56660,Married,1.0,22,High,No
+78230,Married,1.0,29,High,No
+78800,Married,3.0,29,High,No
+131940,Single,0.0,2,High,No
+50670,Divorced,1.0,28,Very High,No
+50790,Married,3.0,2,High,No
+23210,Married,9.0,2,Low,Yes
+174440,Married,1.0,22,Medium,No
+24040,Single,6.0,8,Very High,No
+34520,Married,4.0,2,Very High,No
+22700,Married,2.0,10,Very High,No
+173990,Divorced,6.0,9,Very High,Yes
+54880,Single,1.0,15,Very High,No
+194190,Married,7.0,10,High,No
+28110,Single,2.0,7,Very High,No
+36330,Single,3.0,16,Low,Yes
+41630,Single,9.0,20,High,No
+21320,Married,4.0,23,Low,No
+139730,Divorced,1.0,5,High,No
+26840,Married,4.0,10,Medium,No
+108450,Married,3.0,4,Medium,No
+43770,Divorced,5.0,2,Low,No
+37430,Single,1.0,18,High,No
+41480,Divorced,1.0,10,Medium,No
+10510,Single,2.0,1,Medium,No
+107390,Married,2.0,6,High,No
+103880,Married,0.0,8,High,No
+114160,Divorced,6.0,2,Low,No
+26000,Married,3.0,24,High,No
+24220,Married,1.0,2,High,No
+54720,Single,3.0,17,Very High,Yes
+24510,Married,7.0,19,Very High,No
+42400,Divorced,1.0,1,Medium,No
+109990,Divorced,1.0,7,Very High,No
+50030,Divorced,0.0,5,Medium,No
+127420,Married,1.0,28,Very High,No
+42270,Divorced,4.0,2,Low,No
+39170,Single,1.0,29,Medium,No
+183030,Divorced,6.0,1,Medium,No
+23800,Single,4.0,21,High,No
+137260,Single,3.0,24,High,No
+47770,Single,1.0,1,Low,No
+63850,Divorced,1.0,18,Very High,No
+199730,Married,6.0,2,High,No
+68610,Divorced,4.0,9,Very High,No
+49690,Single,1.0,6,High,Yes
+198450,Married,7.0,11,High,No
+63470,Married,2.0,10,High,Yes
+27430,Single,1.0,1,Medium,Yes
+108800,Single,1.0,18,Very High,No
+23420,Divorced,5.0,23,Medium,No
+176500,Married,1.0,28,Very High,No
+40250,Divorced,3.0,17,Very High,No
+97250,Married,1.0,3,Medium,No
+119040,Divorced,1.0,13,Very High,No
+21770,Married,1.0,7,Very High,No
+75250,Divorced,1.0,12,Very High,Yes
+48340,Married,1.0,1,Very High,No
+20420,Single,0.0,13,Very High,No
+22200,Married,1.0,25,Very High,No
+10520,Married,1.0,6,High,No
+28210,Single,1.0,6,High,No
+192370,Married,9.0,2,High,No
+41070,Single,3.0,1,Very High,No
+83960,Married,3.0,2,High,No
+20070,Married,1.0,6,High,Yes
+196270,Married,7.0,1,High,Yes
+106860,Married,1.0,9,High,No
+29420,Single,1.0,1,Medium,No
+88580,Married,6.0,1,High,No
+167560,Married,1.0,14,High,No
+23230,Married,2.0,22,Low,No
+14160,Divorced,1.0,3,Low,No
+46150,Single,6.0,6,Medium,No
+24610,Married,2.0,8,High,No
+87220,Married,1.0,9,Very High,No
+39550,Married,7.0,3,Medium,No
+99570,Divorced,4.0,1,Very High,No
+33760,Divorced,5.0,1,Low,Yes
+88230,Single,6.0,26,Medium,Yes
+103220,Single,1.0,6,Medium,No
+46210,Single,2.0,3,Very High,No
+109760,Married,1.0,3,Very High,No
+36600,Married,3.0,6,High,No
+104820,Single,1.0,6,Medium,No
+71190,Married,4.0,19,High,No
+95820,Single,0.0,9,Low,No
+45080,Married,0.0,3,Very High,No
+22070,Divorced,6.0,10,Very High,Yes
+77560,Married,1.0,3,High,No
+66940,Single,1.0,3,Very High,No
+36910,Single,1.0,4,Medium,Yes
+23770,Single,8.0,8,High,No
+23130,Divorced,2.0,7,Low,No
+176650,Married,0.0,1,Very High,No
+25960,Single,8.0,2,Medium,No
+47280,Single,3.0,3,Very High,No
+43020,Single,2.0,10,Low,Yes
+29790,Married,4.0,28,Medium,No
+168850,Married,2.0,9,High,Yes
+55930,Divorced,1.0,3,Low,No
+104450,Married,3.0,2,High,No
+87400,Single,2.0,10,Medium,No
+25140,Married,3.0,8,Very High,No
+76550,Married,9.0,1,High,Yes
+174650,Divorced,8.0,1,Medium,No
+73510,Married,8.0,3,Low,No
+108200,Divorced,5.0,14,Medium,No
+121690,Divorced,1.0,5,Low,No
+196260,Divorced,1.0,7,High,No
+20700,Married,4.0,10,High,No
+67820,Single,0.0,16,Very High,No
+77790,Single,5.0,10,Very High,No
+27910,Single,1.0,1,Medium,Yes
+32010,Married,1.0,8,High,No
+49680,Married,1.0,1,Low,Yes
+131200,Married,1.0,8,Very High,No
+40330,Married,2.0,1,High,No
+32910,Married,1.0,24,Medium,No
+42720,Divorced,7.0,3,Very High,No
+50560,Married,7.0,27,Low,No
+28440,Divorced,1.0,10,Medium,Yes
+27030,Divorced,2.0,19,Medium,No
+19040,Single,1.0,15,Very High,Yes
+82240,Married,6.0,8,Low,No
+47660,Married,1.0,9,Very High,No
+26100,Single,7.0,3,High,No
+57310,Single,8.0,9,Medium,No
+25390,Married,4.0,2,Low,No
+57140,Married,5.0,7,Low,No
+43230,Divorced,2.0,10,Very High,No
+73360,Divorced,5.0,6,Medium,No
+134990,Married,4.0,2,Low,Yes
+137580,Single,1.0,24,Low,Yes
+51550,Divorced,2.0,2,Very High,No
+22580,Single,4.0,8,High,No
+35970,Single,3.0,3,Medium,No
+25150,Divorced,0.0,1,High,No
+44200,Single,9.0,26,High,No
+65780,Married,0.0,2,Medium,Yes
+44220,Married,4.0,10,Medium,Yes
+102740,Divorced,4.0,27,Very High,No
+53430,Married,1.0,2,High,No
+23760,Divorced,4.0,2,Medium,No
+53460,Married,0.0,8,High,No
+28270,Divorced,8.0,19,Medium,No
+199430,Divorced,2.0,1,Low,No
+31310,Married,4.0,27,Very High,No
+25520,Married,2.0,8,Low,No
+44770,Married,1.0,1,Low,No
+64740,Married,2.0,19,Very High,No
+30330,Single,1.0,8,Very High,No
+29360,Married,2.0,10,High,No
+186060,Single,1.0,2,High,No
+21680,Married,0.0,2,Low,Yes
+28530,Divorced,4.0,8,Low,Yes
+22900,Married,4.0,2,Medium,No
+36000,Married,1.0,8,Very High,No
+21070,Single,0.0,8,Very High,No
+41150,Married,1.0,6,Very High,No
+43270,Single,8.0,9,Very High,No
+178560,Married,3.0,11,High,No
+31960,Single,4.0,2,High,No
+190810,Divorced,3.0,1,Very High,No
+89660,Divorced,1.0,7,Very High,No
+22100,Divorced,8.0,16,High,No
+45390,Single,4.0,2,High,No
+27410,Single,7.0,1,Medium,Yes
+34910,Divorced,2.0,23,Low,No
+45410,Married,1.0,2,High,No
+26780,Married,1.0,1,Medium,No
+73790,Married,7.0,1,High,No
+62720,Married,4.0,2,Medium,No
+52200,Single,1.0,13,Very High,Yes
+27430,Married,5.0,4,Medium,Yes
+49980,Married,0.0,16,Low,No
+102520,Divorced,8.0,2,Very High,No
+27810,Married,8.0,2,Very High,No
+68520,Married,1.0,29,Medium,No
+49500,Single,1.0,12,Very High,Yes
+35790,Single,1.0,16,Medium,Yes
+131910,Married,1.0,11,High,No
+103770,Divorced,1.0,2,High,No
+22350,Married,2.0,14,Very High,No
+105020,Single,3.0,5,Low,No
+20110,Married,5.0,7,Low,No
+18590,Married,0.0,2,Medium,No
+37600,Married,0.0,3,Very High,No
+177790,Single,1.0,5,Very High,No
+68120,Married,1.0,26,High,No
+51710,Single,0.0,4,High,No
+197400,Divorced,3.0,2,Very High,No
+187110,Married,2.0,1,Low,No
+36920,Married,1.0,27,Low,Yes
+25590,Single,1.0,1,Very High,Yes
+25170,Married,2.0,13,Medium,No
+66230,Married,5.0,5,Medium,No
+182650,Married,9.0,7,Low,No
+161240,Divorced,2.0,9,Very High,No
+25850,Married,3.0,8,Very High,No
+182130,Divorced,8.0,25,High,No
+83800,Married,0.0,16,Very High,No
+29940,Single,4.0,8,High,No
+12230,Single,1.0,1,High,No
+11180,Married,1.0,8,Very High,No
+28750,Single,1.0,2,Low,Yes
+188240,Married,6.0,8,High,No
+135770,Married,1.0,3,Medium,No
+26250,Married,1.0,9,Very High,No
+187890,Single,3.0,25,High,Yes
+45380,Married,8.0,1,Medium,No
+198470,Married,4.0,4,Low,No
+105120,Married,1.0,1,Low,No
+44440,Divorced,1.0,4,Medium,No
+21540,Married,4.0,5,Very High,No
+191900,Single,3.0,9,High,Yes
+44900,Divorced,2.0,3,Very High,No
+35060,Married,3.0,11,Very High,No
+23720,Divorced,3.0,1,Very High,No
+102310,Married,1.0,8,Medium,Yes
+54100,Married,0.0,25,Low,No
+79780,Single,1.0,21,High,No
+38670,Divorced,1.0,23,Low,No
+28380,Married,1.0,1,Medium,No
+46950,Single,1.0,2,Very High,No
+33390,Divorced,1.0,19,High,No
+20800,Single,0.0,2,Low,No
+20960,Married,0.0,2,Low,No
+62090,Divorced,5.0,3,Very High,No
+180610,Married,1.0,25,Low,No
+171230,Divorced,5.0,7,Very High,Yes
+23720,Single,4.0,9,Low,No
+48830,Married,1.0,5,Very High,No
+39040,Single,1.0,2,Very High,No
+46270,Single,8.0,8,Very High,No
+70940,Married,1.0,2,Very High,Yes
+34230,Single,6.0,18,Low,Yes
+66740,Married,3.0,14,High,No
+168800,Divorced,1.0,2,High,No
+90940,Married,1.0,3,High,No
+84460,Married,0.0,2,Medium,No
+119160,Married,4.0,9,Medium,No
+45340,Divorced,1.0,6,Very High,No
+98520,Single,0.0,4,Low,No
+61510,Single,1.0,10,High,No
+23020,Married,4.0,14,High,No
+23620,Single,6.0,1,Low,No
+178610,Single,1.0,5,High,No
+191870,Single,1.0,7,Very High,No
+197170,Married,1.0,21,High,No
+35440,Married,3.0,8,Medium,No
+85000,Married,4.0,20,Medium,No
+46610,Married,1.0,20,Medium,No
+41030,Divorced,6.0,7,High,No
+42490,Single,2.0,1,High,No
+140260,Divorced,1.0,1,High,No
+68930,Married,0.0,19,Medium,No
+61250,Married,0.0,10,High,No
+36690,Married,2.0,1,High,No
+100080,Divorced,6.0,6,Low,No
+23870,Married,3.0,2,Very High,No
+46390,Married,0.0,21,Medium,No
+78980,Married,7.0,4,High,No
+25340,Single,0.0,12,High,No
+131420,Single,1.0,9,High,No
+16110,Married,0.0,3,Very High,No
+53630,Single,1.0,3,Medium,No
+50710,Married,8.0,1,Very High,No
+136950,Married,0.0,1,Medium,No
+134020,Single,7.0,4,Very High,No
+20290,Married,3.0,20,High,No
+63770,Married,1.0,18,Very High,No
+54290,Married,1.0,1,Very High,No
+27850,Divorced,0.0,2,High,No
+26100,Single,6.0,8,Very High,No
+66870,Single,1.0,10,Low,No
+47240,Single,2.0,3,Very High,No
+61790,Married,1.0,2,Low,Yes
+61200,Married,0.0,24,Very High,No
+105960,Divorced,7.0,16,Medium,No
+54670,Divorced,1.0,8,High,No
+29960,Married,9.0,9,Very High,Yes
+99980,Married,5.0,17,High,No
+40780,Married,8.0,10,High,Yes
+109200,Married,0.0,13,Medium,No
+62320,Married,1.0,1,High,No
+132470,Divorced,1.0,1,Very High,No
+40810,Divorced,2.0,1,Medium,No
+57690,Single,1.0,9,Low,No
+23940,Single,1.0,16,Very High,No
+39040,Married,1.0,23,Very High,No
+167990,Divorced,7.0,4,High,Yes
+29500,Married,4.0,22,Very High,No
+36290,Single,8.0,24,High,No
+93620,Single,2.0,10,High,No
+32290,Married,1.0,7,High,No
+35780,Married,2.0,17,High,No
+79880,Married,1.0,14,Very High,No
+42840,Married,4.0,1,Medium,No
+75530,Single,1.0,5,Low,No
+173280,Divorced,4.0,17,Low,Yes
+197010,Married,0.0,25,Very High,No
+147320,Single,0.0,8,Low,No
+92780,Single,0.0,11,High,No
+13590,Married,4.0,5,Very High,No
+47790,Married,4.0,2,Low,No
+164220,Married,1.0,8,Medium,No
+29960,Married,2.0,6,Medium,No
+12610,Married,2.0,4,High,No
+20990,Single,8.0,7,Very High,Yes
+58100,Married,1.0,1,Medium,No
+56470,Single,6.0,2,High,Yes
+34200,Married,1.0,10,High,No
+44000,Married,9.0,5,Medium,No
+35000,Single,0.0,9,Very High,No
+20660,Married,4.0,2,Low,No
+171690,Divorced,1.0,11,High,No
+41620,Single,0.0,18,High,No
+92040,Married,6.0,7,High,No
+32940,Married,0.0,3,Medium,No
+21270,Single,0.0,29,High,No
+39750,Divorced,1.0,2,High,No
+107930,Divorced,0.0,28,Very High,No
+100960,Single,5.0,1,High,Yes
+36460,Divorced,1.0,16,Low,No
+74460,Divorced,0.0,22,Medium,No
+108510,Divorced,1.0,8,Very High,No
+21090,Married,2.0,11,Very High,No
+37220,Single,5.0,29,Very High,No
+93800,Divorced,0.0,1,High,No
+54860,Single,7.0,1,Low,Yes
+27420,Single,0.0,24,Medium,No
+137570,Single,1.0,2,Very High,No
+84630,Single,2.0,15,Low,Yes
+31620,Divorced,4.0,2,High,No
+165980,Single,1.0,10,Low,Yes
+66510,Married,0.0,10,Medium,No
+23450,Married,3.0,3,Very High,No
+34200,Single,3.0,2,Low,No
+43730,Single,4.0,3,Very High,No
+47590,Married,2.0,26,Very High,No
+53010,Single,1.0,1,High,No
+36730,Married,3.0,1,Very High,Yes
+47680,Married,2.0,2,Very High,Yes
+12740,Divorced,1.0,9,High,No
+49000,Married,1.0,12,High,Yes
+104660,Married,1.0,2,Very High,No
+170070,Married,9.0,25,Low,No
+29090,Married,2.0,9,Low,No
+57650,Divorced,1.0,10,Very High,No
+45990,Divorced,1.0,8,Low,No
+24040,Single,1.0,4,High,Yes
+31720,Single,1.0,24,High,No
+20330,Single,1.0,1,Very High,No
+102090,Married,1.0,20,High,Yes
+86200,Single,0.0,7,High,No
+20640,Married,4.0,17,Medium,No
+40350,Single,4.0,20,Very High,No
+38380,Married,1.0,8,Very High,No
+45910,Single,9.0,2,High,Yes
+25610,Single,1.0,10,High,Yes
+15630,Divorced,5.0,1,Low,No
+48980,Married,2.0,5,Low,No
+47890,Married,7.0,4,Very High,No
+31800,Single,1.0,29,Very High,No
+65490,Married,1.0,15,Low,No
+63880,Married,3.0,3,Low,No
+112440,Divorced,3.0,10,Very High,No
+160320,Divorced,1.0,4,High,No
+23620,Married,1.0,21,Very High,No
+163280,Single,1.0,25,Very High,No
+83760,Divorced,5.0,2,High,No
+166060,Single,7.0,1,Low,No
+86060,Divorced,1.0,1,High,No
+22720,Divorced,2.0,7,High,No
+20180,Single,1.0,3,Medium,No
+40840,Married,4.0,9,Low,No
+144110,Married,0.0,7,High,Yes
+23080,Single,7.0,10,High,No
+48410,Married,0.0,28,Medium,No
+42850,Single,1.0,3,Medium,No
+97150,Married,1.0,3,Medium,No
+21320,Single,1.0,27,Very High,No
+101240,Single,0.0,2,Low,No
+54730,Married,4.0,14,Low,No
+52070,Single,4.0,1,High,No
+164370,Divorced,8.0,9,Medium,No
+22960,Married,1.0,18,Very High,No
+40690,Single,1.0,20,High,No
+74410,Married,3.0,2,Very High,No
+24300,Divorced,7.0,11,Very High,No
+58780,Married,1.0,8,Medium,No
+26440,Single,4.0,2,Very High,No
+64390,Divorced,3.0,10,Low,No
+24510,Married,3.0,29,Very High,No
+63920,Married,1.0,8,Very High,No
+97140,Single,1.0,1,Very High,Yes
+60770,Married,1.0,6,Medium,No
+24500,Single,0.0,8,Very High,No
+92500,Divorced,1.0,9,Medium,No
+20740,Married,2.0,12,Low,No
+101690,Single,1.0,15,High,No
+48550,Married,9.0,25,High,No
+40870,Married,0.0,6,High,No
+23670,Married,1.0,9,High,No
+29720,Single,0.0,8,High,No
+195860,Married,4.0,23,Medium,No
+54840,Divorced,4.0,9,Low,Yes
+20610,Single,1.0,12,Low,No
+99240,Single,1.0,4,Very High,Yes
+41980,Single,1.0,1,High,No
+68150,Divorced,5.0,24,Very High,No
+47230,Married,9.0,12,Very High,No
+61420,Married,3.0,3,Medium,No
+82370,Single,1.0,10,High,Yes
+88530,Married,1.0,26,Very High,No
+193310,Single,1.0,2,Very High,No
+20730,Single,3.0,1,Low,No
+55620,Single,1.0,4,High,Yes
+196130,Single,2.0,9,Very High,No
+34070,Married,0.0,2,High,No
+50630,Divorced,6.0,4,Medium,No
+46390,Single,2.0,6,Very High,No
+48760,Single,2.0,9,Low,No
+26900,Married,0.0,7,Very High,No
+175670,Divorced,5.0,1,Very High,No
+24080,Married,1.0,3,Very High,No
+28140,Divorced,1.0,10,High,No
+112450,Married,0.0,7,Medium,No
+33120,Married,9.0,15,Medium,Yes
+190490,Single,7.0,3,High,No
+21410,Married,4.0,2,High,Yes
+57690,Married,1.0,17,Medium,No
+43850,Married,1.0,2,Very High,Yes
+53320,Single,1.0,5,High,Yes
+46630,Married,0.0,29,Very High,No
+47240,Married,1.0,2,Low,No
+32110,Single,4.0,2,High,No
+53770,Single,4.0,19,Very High,No
+40660,Married,3.0,15,High,Yes
+52080,Divorced,3.0,17,High,No
+48770,Married,1.0,17,High,No
+31170,Divorced,6.0,25,Medium,No
+15690,Single,2.0,6,Very High,Yes
+196580,Married,4.0,7,High,No
+30690,Married,2.0,29,High,No
+104350,Married,0.0,21,Very High,No
+41480,Single,7.0,2,Low,Yes
+57680,Single,5.0,2,Very High,No
+50420,Single,3.0,7,High,No
+57700,Single,1.0,13,High,No
+77560,Divorced,0.0,2,Very High,No
+103060,Divorced,5.0,1,Low,No
+39360,Single,0.0,9,Very High,No
+79450,Divorced,4.0,10,Low,No
+57430,Married,2.0,10,Low,No
+152020,Single,1.0,1,Medium,No
+54400,Divorced,1.0,26,Medium,No
+37600,Married,1.0,8,Medium,No
+35170,Married,2.0,14,High,No
+21660,Single,1.0,2,Very High,No
+58690,Married,1.0,10,High,No
+80080,Married,2.0,1,High,No
+52060,Married,4.0,3,Medium,No
+52950,Married,7.0,11,Very High,No
+164130,Married,6.0,24,High,No
+132690,Married,1.0,3,Very High,No
+27830,Divorced,6.0,3,Medium,No
+54330,Married,1.0,4,Very High,No
+20130,Divorced,3.0,3,Very High,No
+139660,Divorced,1.0,2,High,No
+43740,Single,3.0,4,Medium,No
+68420,Divorced,4.0,7,High,No
+174260,Married,2.0,1,Very High,No
+176030,Single,4.0,1,Very High,No
+45810,Single,3.0,20,High,No
+47350,Married,0.0,5,Medium,No
+41870,Single,0.0,10,Low,Yes
+55050,Single,4.0,25,Medium,No
+54700,Divorced,1.0,1,Low,No
+54760,Divorced,4.0,24,Low,No
+25870,Divorced,4.0,4,Low,No
+24400,Single,0.0,2,Very High,No
+159720,Single,1.0,8,Very High,Yes
+153790,Divorced,1.0,10,Low,No
+70820,Single,1.0,4,Very High,No
+53680,Single,2.0,9,Medium,No
+53470,Single,1.0,18,Medium,Yes
+31950,Married,2.0,19,High,No
+39890,Divorced,1.0,1,Low,No
+33060,Married,1.0,4,Medium,No
+70050,Married,1.0,11,High,No
+26550,Single,8.0,6,Medium,No
+13930,Married,1.0,7,High,No
+25700,Single,3.0,4,Medium,No
+35370,Married,0.0,2,High,No
+39860,Single,1.0,15,Medium,No
+108830,Married,3.0,2,High,Yes
+95250,Married,9.0,9,Very High,No
+29290,Married,1.0,7,Low,No
+22750,Single,5.0,1,Medium,No
+78790,Divorced,2.0,1,High,No
+49300,Married,9.0,8,High,No
+78470,Married,3.0,25,Very High,No
+44010,Married,5.0,13,Low,No
+92410,Divorced,1.0,23,Very High,No
+29740,Divorced,1.0,7,High,No
+45020,Married,8.0,23,Very High,No
+107480,Married,7.0,6,Low,Yes
+15550,Married,1.0,10,Very High,Yes
+129360,Divorced,1.0,1,Medium,No
+23050,Single,1.0,1,Very High,No
+167040,Married,9.0,28,Very High,No
+34330,Divorced,7.0,25,Low,No
+34770,Married,1.0,5,Very High,Yes
+64300,Single,1.0,17,High,No
+65160,Single,1.0,18,High,No
+39070,Married,5.0,2,Medium,No
+55620,Single,5.0,10,Low,Yes
+68830,Single,3.0,1,Very High,No
+28620,Single,5.0,3,Low,Yes
+49780,Single,0.0,2,High,Yes
+103680,Single,6.0,2,Very High,No
+61340,Married,2.0,8,Low,No
+67350,Single,8.0,16,Medium,No
+32950,Married,6.0,9,Medium,No
+52380,Divorced,1.0,2,Very High,No
+64720,Divorced,0.0,1,High,No
+96100,Married,0.0,4,High,No
+198330,Married,3.0,5,Very High,No
+97560,Divorced,4.0,2,Very High,No
+49680,Married,1.0,15,Very High,No
+21450,Single,1.0,19,High,No
+21800,Single,1.0,7,Very High,Yes
+83460,Single,7.0,1,Very High,No
+34450,Married,1.0,7,Very High,No
+27600,Married,8.0,4,High,No
+62940,Divorced,3.0,11,Very High,No
+71400,Married,5.0,11,Very High,Yes
+29320,Married,5.0,1,Very High,No
+51470,Married,7.0,1,Low,Yes
+45070,Single,1.0,2,High,No
+85640,Married,2.0,13,Medium,No
+24680,Single,0.0,23,High,Yes
+81610,Divorced,7.0,26,High,No
+21090,Married,0.0,2,Very High,No
+52940,Divorced,2.0,29,Low,No
+58110,Married,0.0,18,Very High,No
+24370,Divorced,9.0,7,High,No
+27660,Married,1.0,2,Very High,No
+190380,Married,6.0,26,Low,No
+30550,Married,2.0,22,Low,No
+22890,Married,4.0,21,High,No
+40010,Divorced,6.0,2,High,Yes
+129650,Single,0.0,22,High,No
+35390,Single,1.0,4,Very High,No
+60290,Single,3.0,5,Low,No
+26790,Divorced,2.0,2,Very High,No
+37020,Married,0.0,25,High,No
+23980,Divorced,0.0,18,Low,No

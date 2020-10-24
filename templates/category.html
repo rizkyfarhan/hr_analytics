@@ -1,0 +1,79 @@
+{% extends 'index.html' %}
+{% block content %}
+
+    <!-- Controller -->
+    <form action="{{ url_for('cat_fn') }}" id='form'>
+        <div class="row d-flex justify-content-around" >
+            <!-- Model Plot -->
+            <select class="col-2 form-control" name="cat_plot" onchange="form.submit()">
+                {% for drop in drop_plot %}
+                    {% if drop[0] == focus_plot %}
+                        <option value={{drop[0]}} selected>{{drop[1]}}</option>
+                    {% else %}
+                        <option value={{drop[0]}} >{{drop[1]}}</option>
+                    {% endif %}
+                {% endfor %}
+            </select>
+
+            <!-- Sumbu X -->
+            <select class="col-2 form-control" name="cat_x" onchange="form.submit()">
+                {% for drop in drop_x %}
+                    {% if drop[0] == focus_x %}
+                        <option value={{drop[0]}} selected>{{drop[1]}}</option>
+                    {% else %}
+                        <option value={{drop[0]}} >{{drop[1]}}</option>
+                    {% endif %}
+                {% endfor %}
+            </select>
+
+            
+            <!-- Sumbu Y -->
+            <select class="col-2 form-control" name="cat_y" onchange="form.submit()">
+                {% for drop in drop_y %}
+                    {% if drop[0] == focus_y %}
+                        <option value={{drop[0]}} selected>{{drop[1]}}</option>
+                    {% else %}
+                        <option value={{drop[0]}} >{{drop[1]}}</option>
+                    {% endif %}
+                {% endfor %}
+            </select>
+
+            <!-- Estimator -->
+            {% if focus_plot == 'boxplot' %}
+                <!-- disabled -->
+                <select class="col-2 form-control" name="estimator" disabled>
+                    <option value="disabled">Disabled</option>
+                </select>
+            {% else %}
+                <select class="col-2 form-control" name="estimator" onchange="form.submit()">
+                    {% for drop in drop_estimator %}
+                        {% if drop[0] == focus_estimator %}
+                            <option value={{drop[0]}} selected>{{drop[1]}}</option>
+                        {% else %}
+                            <option value={{drop[0]}} >{{drop[1]}}</option>
+                        {% endif %}
+                    {% endfor %}
+                </select>
+            {% endif %}
+
+            <!-- Hue -->
+            <select class="col-2 form-control" name="hue" onchange="form.submit()">
+                {% for drop in drop_hue %}
+                    {% if drop[0] == focus_hue %}
+                        <option value={{drop[0]}} selected>{{drop[1]}}</option>
+                    {% else %}
+                        <option value={{drop[0]}} >{{drop[1]}}</option>
+                    {% endif %}
+                {% endfor %}
+            </select>
+        </div>
+    </form>
+
+    <!-- Plot -->
+    <div class="chart mt-4" id="plot">
+        <script>
+            var graphs = {{plot | safe}};
+            Plotly.plot('plot',graphs,{});
+        </script>
+    </div>
+{% endblock  %}
